@@ -1,0 +1,20 @@
+CURRENT_SUB
+
+DAY_GOAL
+
+- FALOWNIK
+- Naprawa superAGI
+- Kodowanie maszyny
+- Play with stable audio
+- Study brain conectome
+
+6MONTH_GOAL
+Get a remote job as a junior dev - ideally 120k/yr Progress -> 3/180
+
+
+DONE!
+Cleanup github page.
+
+
+Daily goals:
+- Kontynuacja leetcode
