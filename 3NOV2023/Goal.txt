@@ -1,11 +1,11 @@
 CURRENT_SUB
 
 DAY_GOAL
--Do leetcode easy problem
 -Try to do leetcode hard problem
 -Do a kaggle course
 -Study ACE_Framework
 -Do a leetcode interview course
+-Research what is autogen
 
 
 6MONTH_GOAL
@@ -19,3 +19,10 @@ Cleanup github page.
 Daily goals:
 - Kontynuacja leetcode
 - Kontynuacja kaggle
+
+
+Just for fun goals
+-Use vercel to make a amazing graph for reading .csv file for progress tracking on leetcode and kagle
+
+
+
