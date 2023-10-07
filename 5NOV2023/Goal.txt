@@ -1,0 +1,32 @@
+CURRENT_SUB
+
+DAY_GOAL
+-Research how to look for an interview
+-Research what is autogen
+-Improve look of linkedin
+-Try to implement ACE framework in simple project
+-Try to implement agile to Danzo Systems, and create test team, using closest pepole
+-Research how to be sucessful at interview
+-Try one interview
+-Create simple program for summarizing knowledge from articles
+
+
+
+6MONTH_GOAL
+Get a remote job as a junior dev - ideally 120k/yr Progress -> 7/180
+
+
+DONE!
+Cleanup github page.
+
+
+Daily goals:
+- Kontynuacja leetcode
+- Kontynuacja kaggle
+
+
+Just for fun goals
+-Use vercel to make a amazing graph for reading .csv file for progress tracking on leetcode and kagle
+
+
+
