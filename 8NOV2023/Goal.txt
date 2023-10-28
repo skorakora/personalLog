@@ -1,9 +1,8 @@
 CURRENT_SUB -> Study ACE architecture
-Study layer 2.
+Study layer 4.
 
 
 DAY_GOAL
--Improve look of linkedin
 -Study langchain i langlow
 -Try to implement agile to Danzo Systems, and create test team, using closest pepole
 -Research how to be sucessful at interview
@@ -13,6 +12,8 @@ DAY_GOAL
 -Try to implement ACE architecture in langflow enviorement
 -Optimize food preparation and contenarize
 -Order requiered food containers
+-Order tshirts and leggins
+-Study a tool that will manage my social media profiles
 
 6MONTH_GOAL
 Get a remote job as a junior dev - ideally 120k/yr Progress -> 7/180

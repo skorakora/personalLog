@@ -1,0 +1,34 @@
+
+ docker run -d --name cats --network main_network --ip 192.168.0.10 acantril/containerofcats
+
+
+
+docker run -d --name debian --network main_network --ip 192.168.0.12 --restart=unless-stopped debian  #network debugger
+
+
+ docker run -d \
+ --name jellyfin \
+ --user root \
+ --net=main_network \
+ --volume /etc/jellyfin:/config \
+ --volume /var/cache/jellyfin:/cache \
+ --mount type=bind,source=/media/jellyfin,target=/media \
+ --restart=unless-stopped \
+ --ip 192.168.0.20 \
+ jellyfin/jellyfin
+
+docker network create -d macvlan --subnet=192.168.0.0/24 --gateway=192.168.0.1 -o parent=enp4s0 main_network
+
+docker network create -d bridge --subnet=192.168.10.0/24 --gateway=192.168.0.1 -o parent=br0 main_network
+
+
+
+
+sudo nano /etc/systemd/system/br0.service
+sudo brctl addbr br0
+sudo ip link set dev br0 up
+sudo ip addr add 192.168.10.1/24 dev br0
+
+
+
+c5363e52-e8c5-4f10-bbcf-4250d38455b6

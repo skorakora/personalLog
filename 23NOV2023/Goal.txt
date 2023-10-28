@@ -1,0 +1,96 @@
+CURRENT_SUB ->
+
+DAY_GOAL
+-Create openAI proxy
+    -Fix problem with containers not having acess to internet
+        -Learn about docker0 interface
+    -Create a proxy for openAI in server use -> https://www.youtube.com/watch?v=9nCIjLlLVzY
+        -Create repo
+        -write docker compose file
+        -Look at openAI api reference
+        -create openAI api handler with g4f library
+        -push and test api proxy to server and setup DNS
+    -Test proxy with superAGI
+
+
+-Learn about automatic CV generation
+
+
+
+-Go to linkedin and find jobs related to AI, create a note what is needed for AI field and programming
+    -Create linkedin profiles related to your goal
+        -Setup photos and basic information.
+            -For profile: Programista/developer -> danielskorski2015@gmail.com
+                -Based on research results create resume data
+                -Pick top 3 job listings and apply to them
+            -For profile: AI Developer -> danielsk2022@gmail.com
+                -Add relevant experience
+                -Add good hedline
+                -Research 10 jobs and save them
+                -Add good banner
+                -Based on research results create resume data
+                -Based on research data update laerning list
+                -Pick top 3 job listings and apply to them
+            -For profile: Elektronik -> danielskorski2018@gmail.com
+                -Add relevant experience
+                -Add good hedline
+                -Research 10 jobs and save them
+                -Add good banner
+                -Based on research results create resume data
+                -Based on research data update laerning list
+                -Pick top 3 job listings and apply to them
+
+
+
+
+
+-Make better linkedin profile picture
+-Create linkedin profile for Danzo Systems
+-Adapt to it, create simple todolist based on response
+-Write to one recrouter that you wish to try and talk with him about possition.
+-Do Leetcode Simple problem
+-Do leetcode Hard problem
+-Do 1 kaggle tutorial
+-Do 1 kaggle course
+
+-Ogarnac CA dla żwira
+-Run Langflow with openAI proxy
+-Play with USB-UART and UPDI -> Connect it to inverter and do some communications
+-Zrobić readme dla text summarizera
+-Sign in and subscribe in 11 labs and play with their api (create voice from samples, and clone practical engineering voice)
+-Clone your own voice, using 11 labs api
+-Look on yt how to enchance voice using AI, and how to enchance voice overall -> create todo list based as research otcome
+-Prepare prompt with all knowledge that you know about it.
+-Prepare universal prompt for script creation
+-Generate visuals based on look found on channel : "-https://www.youtube.com/@NoBoilerplate"
+-Edit video
+-Publish video and generate thumbnails using dreamlike 2 and description using LLM's, use  "-https://www.youtube.com/@4IR.David.Shapiro" as a reference
+-Make video auto pubblish on closest friday 5pm
+-Wysłać hajs brudowi
+-Install Nala APT
+-Setup youtube frontent for yewtudotbe/invidious-custom  and setup redirect for youyube.com
+-Order tshirts and leggins
+-Check Amazon merch
+
+6MONTH_GOAL
+Get a remote job as a junior dev - ideally 120k/yr Progress -> 7/180
+
+Daily goals:
+- Kontynuacja leetcode
+- Kontynuacja kaggle
+
+
+
+Task that require further simplification:
+-Try to implement ACE architecture in langflow enviorement
+-Optimize food preparation and contenarize
+-Study a tool that will manage my social media profiles
+-Create a system that will help you to focus on a goal. Currently internet works against me, using AI and other tech, I need to develop my own tech that will serve me not the tech company, it should keep me focused on my goal and isolate me from hopping into mainstream and wasting time
+-Study langchain i langlow
+-Nagrać short o text summarizer pt "this simple tool wil increase your productivity by 200%"
+-Nagrać tutorial jak ustawić skróty dla text summarizera i jak go zainstalować
+-Create minecraft companion that will help you do the work on map/server
+
+
+Just for fun goals
+-Use vercel to make a amazing graph for reading .csv file for progress tracking on leetcode and kagle
