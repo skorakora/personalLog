@@ -1,0 +1,14 @@
+Project CloudNet
+Sieć komputerów wykorzystującą obecną infrostrukturę koparek miningowych do zastosowań AI.
+Działało by to tak że zamiast mieć jedną centralną serwerownie z kartami graficznymi użytkownik używałby wspóldzielonej sieci komputerów innych użytkowników. Normalnie by za to płacił jak za cloud computing, ale pieniądze
+były by płacone użytkownikom udostępniającym swój komputer. Pewien procent by szedł do organizacji która zarządza tym wszystkim.
+
+Ze strony użytkownika platformy by to wyglądało tak samo jak cloud computing. Czyli płaci za czas używania komputera do trenowania modeli.
+
+Od strony osoby udostępniającej komputer wyglądało by to tak że udostępnia komputer i płaci się mu za to pieniądze.
+
+Od strony technicznej wyglądało by to tak że użytkownik wybiera sobie zasoby komputera, i na podstawie requestu przydzielana jest wirtualana maszyna która jest clusterem obliczeniowym kilku komputerów użytkowników udostępniajacych
+
+
+
+
