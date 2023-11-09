@@ -1,0 +1,247 @@
+NOTATKI CYKLU DOBOWEGO:
+-Budzik cie nie obudzi.
+-Jak tylko poczujesz zmęczenie i jest po 20 idź spać
+-Nie przeciągniesz doby (nie ważne jak bardzo będziesz się zmuszać i tak odpadniesz przed 20 dnia następnego)
+-Poprzednie próby wyregulowania cyklu dobowego się nie udały
+
+
+ITERATION COUNT -> 2
+
+
+-Do some course on khan academy
+    -Carry on with: https://www.khanacademy.org/economics-finance-domain/microeconomics/basic-economic-concepts-gen-micro/economics-introduction/v/economic-models
+
+-Read any book for one block ->
+
+-Wydrukuj karty wzorów matma
+
+-Update skills register
+
+-Post Lecture study of math W4
+    -Restudy lectures on blackboard
+        -Do W2
+            -Do W2 Particular solution
+            -Do W2 Separation of variables
+            -Do W2 maple worksehets
+        -Do W3
+        -Do W4
+        -Do W5
+    -Restudy last lectures
+    -Do mobius 3 (last week)
+    -Learn about LATEX
+    -Restudy TEMP|ex3|
+
+-Do assigements for modelling and simmulation (if between 16-19, esle put bellow current task)
+    -Go to campus lab and do assigement
+
+
+
+-Naprawić cykl dobowy
+
+
+
+-Learn about fastAPI
+    -Carry on with tutorial: https://fastapi.tiangolo.com/python-types/
+
+
+
+
+Zaprogramuj falownik
+    -Wait for cables
+    -Create dev board on cardboard
+    -Play with TWI
+    -Play with timers
+    -Play with GPIO
+        -Generate simple sine vawe on L1
+    -Learn about commutation
+        -Build 3 phase resistor ladder out of lightbulbs
+        -Create simple commutation
+        -Create sine vawe commutation
+    -Create code for 3 phase generation with regulated voltage
+    -Create code for 3 phase generation with regulated voltage and current_limiter
+
+
+-Maintain tiktok
+    -Poczekaj na feedback
+
+
+-Maintain danzo systems fanpage
+    -Zrób posta o kablach i arduino jak przyjdą
+
+
+-Ogarnij inkubator Przedsiębiorczości
+    -Study https://twojstartup.pl/inkubator-przedsiebiorczosci/
+    -Poczekaj na spotkanie
+
+
+
+-Maintain linkedin
+    -Study Jobs>Interview prep
+
+
+
+-Maintain day-night cycle
+    -Study about healthy sleep schedule
+
+-Maintain youtube channel
+    -Rewrite prompt
+    -Write scripts
+        -VID7
+            Research about neuroscience of art
+        -VID8
+        -VID9
+    -Edit video
+        -Generate visuals based on look found on channel : "-https://www.youtube.com/@NoBoilerplate"
+
+    -Publish video and generate thumbnails using dreamlike 2 and description using LLM's, use  "-https://www.youtube.com/@4IR.David.Shapiro" as a reference
+
+
+-Maintain meal prep
+    -Research vids
+
+    -Research new meals
+        -Research vids
+            -https://yewtu.be/watch?v=rAryln3DJz4
+            -https://yewtu.be/watch?v=1S3998B6BjI
+    -Zrób listę zakupów dla posiłku
+    -Zrób research nt. automatyzacji w kuchni
+        -Poszukaj automatycznych mixerów
+        -kup blender
+
+-Create openAI proxy
+    -Fix problem with containers not having acess to internet
+        -Learn more about systemd-networkd
+    -Create a proxy for openAI in server use -> https://www.youtube.com/watch?v=9nCIjLlLVzY
+        -Create repo
+        -write docker compose file
+        -Look at openAI api reference
+        -create openAI api handler with g4f library
+        -push and test api proxy to server and setup DNS
+    -Test proxy with superAGI
+
+
+-Go to linkedin and find jobs related to AI, create a note what is needed for AI field and programming
+    -Create linkedin profiles related to your goal
+        -Setup photos and basic information.
+            -For profile: Programista/developer -> danielskorski2015@gmail.com
+                -Carry on with CV writing
+                -Based on research results create resume data
+                -Pick top 3 job listings and apply to them
+            -For profile: AI Developer -> danielsk2022@gmail.com
+                -Add relevant experience
+                -Add good hedline
+                -Research 10 jobs and save them
+                -Add good banner
+                -Based on research results create resume data
+                -Based on research data update laerning list
+                -Pick top 3 job listings and apply to them
+            -For profile: Elektronik -> danielskorski2018@gmail.com
+                -Add relevant experience
+                -Add good hedline
+                -Research 10 jobs and save them
+                -Add good banner
+                -Based on research results create resume data
+                -Based on research data update laerning list
+                -Pick top 3 job listings and apply to them
+
+
+
+
+-Create a product like Apple computer.
+    -Think about friendly AI interface for end user
+        -Study langchain
+
+-Write to one recrouter that you wish to try and talk with him about possition.
+    -Wait for finished resume/cv
+
+
+
+-Ogarnac CA dla żwira
+
+
+
+
+-Wysłać hajs brudowi [Czeka bo kwitu nie ma na koncie]
+    -Sprzedać franki na cebuliony
+
+-Daj feedback żwirowi nt. PCB
+    -Restudy: https://yewtu.be/playlist?list=PL_nkZRUzFUUIa5tzhtkyDTdGwvjGVxRGA
+
+-ogarnąć kurs reklam fb [Czeka na pierwszy sprzedany kit]
+    https://arturjablonski.com/kurs-online-skuteczna-reklama-na-facebooku-i-instagramie/
+
+
+
+-Maintain kaggle
+    -Do 1 kaggle course
+    -Progress in kaggle
+
+-Maintain leetcode
+    -Do Leetcode Simple problem
+    -Do leetcode Hard problem
+
+
+-Carry on with expanding knowledge
+    -https://en.wikipedia.org/wiki/PCI_Express
+    -https://en.wikipedia.org/wiki/Root_complex
+    -https://pl.wikipedia.org/wiki/Mostek_p%C3%B3%C5%82nocny
+    -https://pl.wikipedia.org/wiki/Direct_Media_Interface
+    -https://en.wikipedia.org/wiki/Expansion_card
+    -https://en.wikipedia.org/wiki/Standard_Modular_System
+
+
+
+
+-Watch high speed PCB design course
+    -Watch:
+        -https://yewtu.be/watch?v=6jrVZu7eqiw&list=PL_nkZRUzFUUIa5tzhtkyDTdGwvjGVxRGA&index=2
+        -https://yewtu.be/watch?v=ZyoqhJB_E9Q&list=PL_nkZRUzFUUIa5tzhtkyDTdGwvjGVxRGA&index=3
+        -https://yewtu.be/watch?v=FVKOC8xz1F0&list=PL_nkZRUzFUUIa5tzhtkyDTdGwvjGVxRGA&index=4
+        -https://yewtu.be/watch?v=5P2_kJJLFvU&list=PL_nkZRUzFUUIa5tzhtkyDTdGwvjGVxRGA&index=5
+        -https://yewtu.be/watch?v=icRzEZF3eZo&list=PL_nkZRUzFUUIa5tzhtkyDTdGwvjGVxRGA&index=6
+
+
+
+6MONTH_GOAL
+Get a remote job as a junior dev - ideally 120k/yr Progress -> 7/180
+
+
+
+
+
+Inactive tasks:
+-Run Langflow with openAI proxy
+-Zrobić readme dla text summarizera
+-Make better linkedin profile picture
+-Sign in and subscribe in 11 labs and play with their api
+-Setup youtube frontent for yewtudotbe/invidious-custom  and setup redirect for youyube.com
+-Try to implement ACE architecture in langflow enviorement
+-Optimize food preparation and contenarize
+-Study a tool that will manage my social media profiles
+-Create a system that will help you to focus on a goal. Currently internet works against me, using AI and other tech, I need to develop my own tech that will serve me not the tech company, it should keep me focused on my goal and isolate me from hopping into mainstream and wasting time
+-Study langchain i langlow
+-Nagrać short o text summarizer pt "this simple tool wil increase your productivity by 200%"
+-Nagrać tutorial jak ustawić skróty dla text summarizera i jak go zainstalować
+-Create minecraft companion that will help you do the work on map/server
+-Create github repos mirror
+
+Skills that require improvement
+
+Health:
+    -Mealprep
+
+Wealth:
+    -Finding a job as junior dev
+        -Skills required to improve/gain
+
+
+
+Relationships:
+    -Improve social skills
+        -Grow social circle
+
+
+
+
+Just for fun goals
+-Use vercel to make a amazing graph for reading .csv file for progress tracking on leetcode and kagle

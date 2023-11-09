@@ -1,0 +1,41 @@
+Video:
+    Secions:
+    -Blok Video Log
+    -Blok break
+    -Day summary
+
+    Video log stucture:
+    5 second black screen with text "Log date - dd.mm.yyyy" maybe day goal under the log date
+    -Blok 1
+        -5s long screen with black backround and white text with "Blok 1" (folloows pattern "Blok 'n'")
+        -Video clip recorded by ffmpeg (audio + screen capture) describing what I am doing right now.1
+        -Video clip recorded by ffmpeg (audio + screen capture) describing what I am doing right now.2
+        -Video clip recorded by ffmpeg (audio + screen capture) describing what I am doing right now.3
+        ...
+        -Video clip recorded by ffmpeg (audio + screen capture) describing what I am doing right now.n
+        -Last clip is ended by word "end of blok '1'" (follows pattern "blok 'n")
+    -Blok 2
+    -Blok 3
+    -Blok 4
+    ...
+    -Blok n
+    -Day summary
+        -Audio summary with my work and black bacground with day stats:
+            -Efficency automatically calculated 15 bloks done means 100% efficenc (15/15)
+            -Tasks done, during every blok I can log task that has been done.
+            -Maybe day goal met yes/no
+
+
+Everything should be asseambled automatically. My only interaction is to pres alt+a to start recording alt+s to finish recording alt+d to use commands
+
+
+Typical generated video title should follow pattern:
+
+Example title:
+-Video Log 24SEP2023
+
+Pattern:
+-Video Log Day|Month|Year
+
+
+Later use of those video logs might be used for AGI to learn about me, and to help me with tasks later based on my knowledge

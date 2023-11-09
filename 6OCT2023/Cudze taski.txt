@@ -1,0 +1,20 @@
+TASKI:
+Żwir:
+    -Zrobić PCB na podstawie wibratora astabilnego
+        -Czeka na feedback
+        -Deadline 20NOV2023
+    -Zrobić listę wad i zalet przeniesienia tasków na trello (jakie ma zalety, jakie wady, i co może ew pójść nie tak)
+    -Obejżeć filmy https://yewtu.be/playlist?list=PL_nkZRUzFUUIa5tzhtkyDTdGwvjGVxRGA
+
+
+
+BRÓD:
+    -Wyszukać i dołaczyć do grup typu "ucz się elektroniki", "elektronika dla początkujących"
+    -Research ogólny, co się tam dzieje, jakie mają problemy. Możesz też zadawać pytania, lub pomagać użytkownikom
+        -Przed publikacją czego kolwiek wrzuć draft i damy feedback
+
+
+
+ZAPYTANIA:
+TROCKERS:
+    -Możliwość zrobienia gwiazdy świątecznej

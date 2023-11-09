@@ -3,33 +3,35 @@ CURRENT_SUB ->
 DAY_GOAL
 
 
-
+-Wydrukuj karty wzorów matma
 
 
 -Learn about feng-sui on break
 
-Zaprogramu falownik
+-Post Lecture study of math W4
+    -Do W2 S1 example 1
+    -Restudy last lectures
+    -Do mobius 3 (last week)
+    -Learn about LATEX
+    -Restudy TEMP|ex3|
+
+
+
+
+
+-Learn about fastAPI
+
+
+
+
+Zaprogramuj falownik
     -Learn implementations on matlab/simulink
     -Program something on UPDI interface
         -Try to program something on it
 
 
-
 -Maintain tiktok
-    -Wait for tripod mount
-    -Record first video
-
-        -Try to get rid of 30 min record limit
-            -Learn about camers in general
-            -Learn about sensors
-            -look for free firmware
-
-        -Record whole process of soldering DIY heart kit
-        -Record how LED kit works
-        -Edit 13s video with ready product and the beggining, soldering timelapse in the middle and ready product at the end
     -Poczekaj na feedback
-
-
 
 -ogarnąć kurs reklam fb
     https://arturjablonski.com/kurs-online-skuteczna-reklama-na-facebooku-i-instagramie/
@@ -40,12 +42,8 @@ Zaprogramu falownik
 -Create SimpleTextReader
 
     -Learn proper way of interfacing with audio device
-        -Learn about nvim
         -Learn about cmake
         -Create simple player using PulseAudio library
-
-
-
 
 
 
@@ -53,26 +51,6 @@ Zaprogramu falownik
 
 
 
-
-
--Post Lecture study of math W4
-    -Co to są differential equations
-        -Co to jest homogenous equation
-        -How to solve differential equation
-        -Co to jest characteristic equations
-        -Do mobius 3 (last week)
-        -What is "product" in math
-        -What is "root" in math
-        -Complex solution of quadratic exuation, learn about it
-        -Co to jest particular integral
-        -Co to jest trial function (general math)
-        -Learn about LATEX
-        -Restudy TEMP|ex3|
-
-
-
-
--Learn about fastAPI
 -Create openAI proxy
     -Fix problem with containers not having acess to internet
         -Learn more about systemd
@@ -119,12 +97,10 @@ Zaprogramu falownik
 -Write to one recrouter that you wish to try and talk with him about possition.
 -Do Leetcode Simple problem
 -Do leetcode Hard problem
--Do 1 kaggle tutorial
--Do 1 kaggle course
+
 
 -Ogarnac CA dla żwira
 -Run Langflow with openAI proxy
--Play with USB-UART and UPDI -> Connect it to inverter and do some communications
 -Zrobić readme dla text summarizera
 -Sign in and subscribe in 11 labs and play with their api (create voice from samples, and clone practical engineering voice)
 -Clone your own voice, using 11 labs api
@@ -138,7 +114,7 @@ Zaprogramu falownik
 -Wysłać hajs brudowi
 -Install Nala APT
 -Setup youtube frontent for yewtudotbe/invidious-custom  and setup redirect for youyube.com
--Order tshirts and leggins
+
 
 6MONTH_GOAL
 Get a remote job as a junior dev - ideally 120k/yr Progress -> 7/180
