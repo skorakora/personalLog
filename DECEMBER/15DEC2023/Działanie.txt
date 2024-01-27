@@ -1,0 +1,87 @@
+
+
+PRIORYTET1: ->>
+-Do assigements for modelling and simmulation (if between 16-19, esle put bellow current task) ->
+    -Go to campus lab and do assigement (if between 16-19, esle do next sub)
+
+-Go to catalyst and do maple
+
+-Post Lecture study of math
+
+
+
+PRIORYTET2:
+
+
+Kontynuuj kurs na temat kicada
+
+
+-Zaprogramuj falownik
+    -Play with TWI
+    -Play with timers
+    -Play with GPIO
+        -Generate simple sine vawe on L1
+    -Learn about commutation
+        -Build 3 phase resistor ladder out of lightbulbs
+        -Create simple commutation
+        -Create sine vawe commutation
+    -Create code for 3 phase generation with regulated voltage
+    -Create code for 3 phase generation with regulated voltage and current_limiter
+
+-Maintain tiktok
+    -Profile link: 'https://www.tiktok.com/@danzosystems'
+    -Creator center: 'https://www.tiktok.com/creator-center'
+    -Find ideas for new video
+        -Research how to find ideas
+
+
+-Maintain danzo systems fanpage
+    -Zrób posta o łączeniu wzmacniacza
+    -Zrób posta o kablach i arduino jak przyjdą
+
+
+
+
+PRIORYTET3:
+-Maintain kaggle
+    -Do 1 kaggle course
+    -Progress in kaggle
+
+
+-Maintain youtube channel
+    -Rewrite prompt
+    -Write scripts
+        -VID7
+            What is a vector database
+        -VID8
+        -VID9
+    -Edit video
+        -Generate visuals based on look found on channel : "-https://www.youtube.com/@NoBoilerplate"
+
+    -Publish video and generate thumbnails using dreamlike 2 and description using LLM's, use  "-https://www.youtube.com/@4IR.David.Shapiro" as a reference
+
+
+
+
+
+PRIORYTET4:
+
+
+-Ogarnij payslipy SFE[Wait for SFE response]
+
+-Zacznij sprzedawać kable
+    -Ogarnij grafiki
+
+
+
+-Meal prep
+    -Update shoping list
+    -Do a meal prep
+
+-Wysłać hajs brudowi [Czeka bo kwitu nie ma na koncie]
+    -Sprzedać franki na cebuliony
+
+
+
+
+

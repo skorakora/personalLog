@@ -1,0 +1,2 @@
+-Szkolenie ludzi/firm w sprawie oprogramowania open source (kicad/freecad/libre office, etc.)
+-Kursy podobne do tego co robi phill's lab na temat elektroniki ale po polsku, dla zaawansowanych
