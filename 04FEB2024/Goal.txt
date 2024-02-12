@@ -10,25 +10,27 @@ TASK COUNT -> 8/20
 ILOŚĆ NAUKI -> 12
 ILOŚĆ DZIAŁAŃ -> 8
 
-BLOK1 15-16 DZIAŁANIE:
+BLOK1 13-14 DZIAŁANIE:
 -Planowanie dnia
--Przygotuj CV
--Wyślij aplikacje
+-Pracuj nad blogiem
 
-BLOK2 16-17 DZIAŁANIE:
--Naprawianie radia
+BLOK2 14-15 DZIAŁANIE:
+-Pracuj nad blogiem
 
-BLOK3 17-18 NAUKA:
--Pracuj nad falownikiem
-    -Kontynuuj bare metal course
-
-BLOK4 18-19 DZIAŁANIE:
--Zrób porządek w pokoju
-
-BLOK5 19-20 NAUKA:
+BLOK3 15-16 NAUKA:
 -Kontynuuj kurs na https://strefavip.pierwszybiznes.org/
 
+BLOK4 16-17 DZIAŁANIE:
+-Wyślij film na tik-toka
 
+BLOK5 17-18 NAUKA:
+-Personal developement
+    Expand knowledge:
+
+BLOK4 16-17 DZIAŁANIE:
+-Maintain kaggle
+    -Do 1 kaggle course
+    -Progress in kaggle
 
 
 
