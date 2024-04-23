@@ -1,0 +1,210 @@
+LAST WASTED TIME=N/D
+WASTED TIME = 3h
+ENERGY=857
+
+
+
+ITERATION COUNT -> 3
+BLOCKS PER TASK -> 1
+TASK COUNT -> 8/20
+
+ILOŚĆ NAUKI -> 12
+ILOŚĆ DZIAŁAŃ -> 8
+
+BLOK1 11-12 DZIAŁANIE:
+-Planowanie dnia
+-Szukanie roboty
+
+BLOK2 12-13 DZIAŁANIE:
+-Praca nad gwiazdą
+
+BLOK3 16-17 NAUKA:
+-Praca nad gwiazdą
+
+BLOK4 17-18 DZIAŁANIE:
+-Uczenie się o wzmacniaczu różnicowym
+
+BLOK5 18-19 NAUKA:
+-Uczenie się o wzmacniaczu różnicowym
+
+
+BLOK6 16-17 DZIAŁANIE:
+-Kontynuuj kurs na https://strefavip.pierwszybiznes.org/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Sprawdzić poprawność wykonanej PCB gwiazdy przez żwira na podstawie dostarczonych screenów/wizualizacji (gdy będzie skończony) ZMIENIONO
+-Sprawdzić poprawność wykonanych poprawek przez żwira na podstawie dostarczonych screenów/wizualizacji NOWE
+-Sprawdzić poprawność wykonanej obudowy przez żwira na podstawie dostarczonych screenów/wizualizacji (task współdzielony z banielem na zasadzie kto pierwszy ten lepszy)
+
+-Sprawdzić poprawność wykonanych poprawek przez żwira na podstawie dostarczonych screenów/wizualizacji NOWE
+
+
+
+Inactive tasks:
+
+
+-Maintain day-night cycle
+    -Study about healthy sleep schedule
+        Carry on:
+        -https://en.wikipedia.org/wiki/Circadian_rhythm
+        -https://www.jiosaavn.com/shows/116%3A-dr.-satchin-panda-groundbreaking-author-professor-researcher%3A-top-circadian-rhythms-expert-answers-when-you-should-eat-move-more-for-great-sleep%21/e6PlXMVmugw_
+        -https://pl.wikipedia.org/wiki/Sen
+        -https://pl.wikipedia.org/wiki/Most_(m%C3%B3zg)
+        -https://pl.wikipedia.org/wiki/%C5%9Api%C4%85czka
+        -https://pl.wikipedia.org/wiki/Wychwyt_zwrotny
+        -https://pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_nag%C5%82ej_zmiany_strefy_czasowej
+        -https://pl.wikipedia.org/wiki/ATC_(N05)
+        -https://pl.wikipedia.org/wiki/Dawca_czasu
+        -https://pl.wikipedia.org/wiki/Fotoperiodyzm
+
+-Study kicad
+
+
+
+-Maintain leetcode [2 bloki, 1 próba, 2 zrozumienie rozwiązania]
+    -Carry on https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/?envType=daily-question&envId=2023-11-15
+    -Do Leetcode Simple problem
+    -Do leetcode Hard problem
+
+-Study psycholology/neurology:
+    -https://en.wikipedia.org/wiki/Affect_(psychology)
+    -https://en.wikipedia.org/wiki/Place_cell
+    -https://en.wikipedia.org/wiki/Grid_cell
+    -https://en.wikipedia.org/wiki/Mental_disorder
+    -https://pl.wikipedia.org/wiki/Uk%C5%82ad_wsp%C3%B3%C5%82czulny
+    -https://pl.wikipedia.org/wiki/Nerw_b%C5%82%C4%99dny
+    -https://en.wikipedia.org/wiki/Personality
+    -https://en.wikipedia.org/wiki/Narrative_identity
+    -https://en.wikipedia.org/wiki/Neurotechnology
+    -
+
+-AI general study
+    -Carry on with:
+        -https://en.wikipedia.org/wiki/Multi-agent_system
+        -https://en.wikipedia.org/wiki/Agent-based_model
+        -https://en.wikipedia.org/wiki/Agent-based_computational_economics
+        -https://en.wikipedia.org/wiki/Agent-based_model_in_biology
+        -https://en.wikipedia.org/wiki/Agent-based_social_simulation
+        -https://en.wikipedia.org/wiki/Agent-oriented_programming
+        -https://en.wikipedia.org/wiki/Distributed_artificial_intelligence
+        -https://en.wikipedia.org/wiki/Multi-agent_pathfinding
+        -https://en.wikipedia.org/wiki/Common_Crawl
+        -https://en.wikipedia.org/wiki/Foundation_models
+        -https://en.wikipedia.org/wiki/Long_short-term_memory
+        -https://en.wikipedia.org/wiki/Recurrent_neural_network
+        -https://en.wikipedia.org/wiki/Attention_(machine_learning)
+        -https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)#Applications
+        -https://en.wikipedia.org/wiki/EleutherAI
+        -https://en.wikipedia.org/wiki/Prompt_engineering#Retrieval-augmented_generation
+        -https://en.wikipedia.org/wiki/Word_embedding
+        -https://www.pinecone.io/learn/vector-database/
+        -https://en.wikipedia.org/wiki/Multi-agent_planning
+        -https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning
+        -https://en.wikipedia.org/wiki/Self-propelled_particles
+        -https://en.wikipedia.org/wiki/Swarm_robotics
+        -https://en.wikipedia.org/wiki/Cyc
+        -https://en.wikipedia.org/wiki/Prompt_engineering
+        -https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)
+        -https://en.wikipedia.org/wiki/Software_agent
+        -https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)
+        -https://www.aimesoft.com/multimodalai.html
+        -https://en.wikipedia.org/wiki/Swarm_intelligence
+
+-Learn about fastAPI
+    -Watch https://yewtu.be/watch?v=QH5fw9kxDQA
+    -Carry on with tutorial: https://fastapi.tiangolo.com/tutorial/
+-Study how to controll aging process
+    -https://en.wikipedia.org/wiki/Alzheimer%27s_disease
+    -https://en.wikipedia.org/wiki/Atrophy
+    -https://en.wikipedia.org/wiki/Amyloid_plaques
+    -https://en.wikipedia.org/wiki/Inflammation
+    -https://en.wikipedia.org/wiki/Amyloid
+    -https://en.wikipedia.org/wiki/Dementia
+    -https://en.wikipedia.org/wiki/Ageing
+    -https://en.wikipedia.org/wiki/Germ_cell
+    -https://en.wikipedia.org/wiki/Egg_cell
+    -https://en.wikipedia.org/wiki/Hayflick_limit
+    -https://en.wikipedia.org/wiki/Atherosclerosis
+    -https://en.wikipedia.org/wiki/Cerebrovascular_disease
+    -https://en.wikipedia.org/wiki/Parkinson%27s_disease
+    -https://en.wikipedia.org/wiki/ALS
+    -https://en.wikipedia.org/wiki/Biological_immortality
+    -https://en.wikipedia.org/wiki/Senescence
+    -https://en.wikipedia.org/wiki/Rate-of-living_theory
+    -https://en.wikipedia.org/wiki/DNA_oxidation
+    -https://en.wikipedia.org/wiki/Strategies_for_engineered_negligible_senescence
+
+-Create openAI proxy
+    -Fix problem with containers not having acess to internet
+        -Learn more about systemd-networkd
+    -Create a proxy for openAI in server use -> https://www.youtube.com/watch?v=9nCIjLlLVzY
+        -Create repo
+        -write docker compose file
+        -Look at openAI api reference
+        -create openAI api handler with g4f library
+        -push and test api proxy to server and setup DNS
+    -Test proxy with superAGI
+
+-Research methods to create commercial project ->
+    -GPT ale na układach elektronicznych? (Może nakarmić GPT komponentami elektronicznymi zamiast słów?)
+        -GOTO_TASK:-AI general study
+-Ogarnij inkubator Przedsiębiorczości
+-Update skills register
+-Run Langflow with openAI proxy
+-Zrobić readme dla text summarizera
+-Make better linkedin profile picture
+-Sign in and subscribe in 11 labs and play with their api
+-Setup youtube frontent for yewtudotbe/invidious-custom  and setup redirect for youyube.com
+-Try to implement ACE architecture in langflow enviorement
+-Optimize food preparation and contenarize
+-Study a tool that will manage my social media profiles
+-Create a system that will help you to focus on a goal. Currently internet works against me, using AI and other tech, I need to develop my own tech that will serve me not the tech company, it should keep me focused on my goal and isolate me from hopping into mainstream and wasting time
+-Study langchain i langlow
+-Nagrać short o text summarizer pt "this simple tool wil increase your productivity by 200%"
+-Nagrać tutorial jak ustawić skróty dla text summarizera i jak go zainstalować
+-Create minecraft companion that will help you do the work on map/server
+-Create github repos mirror
+
+
+Skills that require improvement
+
+Health:
+    -Mealprep
+
+Wealth:
+    -Finding a job as junior dev
+        -Skills required to improve/gain
+
+
+
+Relationships:
+    -Improve social skills
+        -Grow social circle
+
