@@ -1,0 +1,80 @@
+LAST WASTED TIME=N/D
+WASTED TIME = 3h
+ENERGY=857
+
+
+
+ITERATION COUNT -> 3
+BLOCKS PER TASK -> 1
+TASK COUNT -> 8/20
+
+ILOŚĆ NAUKI -> 12
+ILOŚĆ DZIAŁAŃ -> 8
+
+BLOK1 10-11 DZIAŁANIE:
+-Planowanie dnia
+-Praca nad wzmacniaczem
+
+BLOK2 11-12 DZIAŁANIE:
+-Projektowanie wzmacniacza
+
+
+BLOK3 12-13 NAUKA:
+-Pierwszy biznes 20min
+-nauka japońskiego 20min
+
+
+BLOK4 13-14 DZIAŁANIE:
+-Praca nad filmem
+
+
+BLOK5 14-15 NAUKA:
+-Pierwszy biznes 20min
+-Nauka japońskiego 20min
+
+
+BLOK6 15-16 DZIAŁANIE:
+-Praca nad filmem
+
+BLOK7 16-17 NAUKA:
+-Czytanie ksążki
+
+
+BLOK8 17-18 DZIAŁANIE:
+-Projektowanie wzmacniacza
+-Planowanie dnia
+
+
+
+
+
+=======SKILLE========
+-Gadanie/nagrywki->2 BLOK
+-Video editing->6.5 BLOK
+-Nauka japońskiego->6 BLOK
+    -https://www.youtube.com/watch?v=6p9Il_j0zjc&t=1474s
+    6.37
+
+-SCRIPT WRITTING->3 BLOK
+-Czytanie tekstu->2.2 BLOK
+-Projektowanie elektroniki w kicadzie
+======PROJEKTY=======
+WSL01-OLIWIA->1BLOK
+
+
+
+
+RZECZY PRZYŚPIESZAJĄCE ROZWÓJ FIRMY
+
+-Dostosowanie FB
+    -Skonfigurowanie FB tak by kierował ruch na stronę
+    -Napisanie paru postów stricte o produkcie
+
+
+
+-z części należy zmontować próbne serduszko
+-zrobić sesję zdjęciową serduszka
+-kupić opakowania (koperty bąbelkowe)
+
+
+
