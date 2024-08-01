@@ -1,0 +1,56 @@
+Skills:
+    -AWS ->3
+
+
+
+    -Ruby on Rails ->2
+    -Docker ->2
+    -Communication skills ->2
+    -What is commercial experience >2
+
+
+
+    -GCP -> 1
+    -Terraform ->1
+    -Rancher ->1
+    -React native ->1
+    -React ->1
+    -Front end Back end developement ->1
+    -Database management ->1
+    -Colaboration ->1
+    -Code quality ->1
+    -Continous Learning ->1
+    -Documentation ->1
+    -Scalability ->1
+    -Scala ->1
+    -Spakrk ->1
+    -CI/CD ->1
+    -REST API ->1
+    -Working on the command line ->1
+    -GIT ->1
+    -FLASK ->1
+    -FastAPI ->1
+    -Python3 ->1
+    -Golang ->1
+    -Postges ->1
+    -Kubernets ->1
+    -Github enterprise cloud ->1
+    -Google cloud platform -> 1
+    -Slack ->1
+    -Datadog -> 1
+    -WebRTC ->1
+    -Blockchain ->1
+    -Web3JS ->1
+    -C# .Net -> 1
+    -Mendix Developement ->1
+    -Mendix Certification ->1
+    -Microsoft Power Platrofm certificaton ->1
+    -Agile developement methodologies ->1
+    -Problem solving ->1
+    -Low code developement ->1
+    -Microsoft dynamics ->1
+    -React JS ->1
+    -JSON ->1
+
+
+
