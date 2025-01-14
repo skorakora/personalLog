@@ -1,0 +1,72 @@
+LAST WASTED TIME=N/D
+WASTED TIME = 3h
+ENERGY=857
+
+
+
+ITERATION COUNT -> 3
+BLOCKS PER TASK -> 1
+TASK COUNT -> 8/20
+
+ILOŚĆ NAUKI -> 12
+ILOŚĆ DZIAŁAŃ -> 8
+
+BLOK1 14-15 DZIAŁANIE:
+-Korekcja czasu
+-Projektowanie wzmacniacza
+
+BLOK2 15-16 5DZIAŁANIE:
+
+-Praca nad edytorem
+
+BLOK3 16-17 NAUKA:
+-Nauka Power electronics
+
+BLOK4 17-18 DZIAŁANIE:
+-Praca nad wzmacniaczem
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOK5 11-15 NAUKA:
+
+
+BLOK6 20-21 DZIAŁANIE:
+
+
+
+BLOK7 17-18 NAUKA:
+-Nauka Godot
+
+
+BLOK8 18-19 DZIAŁANIE:
+-Projektowanie wzmacniacza
+
+
+BLOK9 19-20 DZIAŁANIE:
+-Praca nad edytorem
+
+BLOK10 20-21 DZIAŁANIE:
+-Nauka Pierwszy biznes
+
+BLOK11 21-22 DZIAŁANIE:
+-Nauka Godot
+-Planowanie dnia
+
+
+
+
+
+
+
+
+

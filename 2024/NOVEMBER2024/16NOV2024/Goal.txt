@@ -1,0 +1,80 @@
+LAST WASTED TIME=N/D
+WASTED TIME = 3h
+ENERGY=857
+
+
+
+ITERATION COUNT -> 3
+BLOCKS PER TASK -> 1
+TASK COUNT -> 8/20
+
+ILOŚĆ NAUKI -> 12
+ILOŚĆ DZIAŁAŃ -> 8
+
+BLOK1 15-16 DZIAŁANIE:
+-Korekcja czasu
+-Praca nad Filmem
+
+
+
+BLOK2 16-17 5DZIAŁANIE:
+-Praca nad Filmem
+
+
+BLOK3 17-18 NAUKA:
+-Oglądanie power electronics
+
+BLOK4 18-19 DZIAŁANIE:
+-Praca nad WM100
+
+
+BLOK5 19-20 NAUKA:
+-Czytanie
+
+
+BLOK6 20-21 DZIAŁANIE:
+-Zrzucanie muzyki
+
+
+BLOK7 21-22 NAUKA:
+-Praca nad: Moduł przetwornicy symetrycznej
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOK8 18-19 DZIAŁANIE:
+-Projektowanie wzmacniacza
+
+
+BLOK9 19-20 DZIAŁANIE:
+-Praca nad edytorem
+
+BLOK10 20-21 DZIAŁANIE:
+-Nauka Pierwszy biznes
+
+BLOK11 21-22 DZIAŁANIE:
+-Nauka Godot
+-Planowanie dnia
+
+
+NOTATKI DNIA
+-Pisanie książki to pisanie codziennie jednego artukułu
+
+
+
+ZADANIA:
+efekty” gitarowe (takie pedaly przelaczane z regulacja barwy - przestery, limitery, reeverby itd) ->Baniel się zajmuje
+Karta dźwiękowa oparta na STM32 (Karta USB) -> jagodzin/bananiel
+
+
+
+

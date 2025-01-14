@@ -1,0 +1,43 @@
+
+
+PRIORYTET1:
+
+-Prowadzić blog na stronie Danzo Systems->>
+
+PRIORYTET2:
+
+-Maintain tiktok
+    -Profile link: 'https://www.tiktok.com/@danzosystems'
+    -Creator center: 'https://www.tiktok.com/creator-center'
+    -Find ideas for new video
+        -Research how to find ideas
+
+-Maintain danzo systems fanpage
+    -Zrób posta z wyświetlaczem
+
+-Maintain kaggle
+    -Do 1 kaggle course
+    -Progress in kaggle
+
+
+PRIORYTET3:
+-Maintain youtube channel
+    -Rewrite prompt
+    -Write scripts
+        -VID7
+            What is a vector database
+        -VID8
+        -VID9
+    -Edit video
+        -Generate visuals based on look found on channel : "-https://www.youtube.com/@NoBoilerplate"
+
+    -Publish video and generate thumbnails using dreamlike 2 and description using LLM's, use  "-https://www.youtube.com/@4IR.David.Shapiro" as a reference
+
+
+
+
+
+
+
+
+

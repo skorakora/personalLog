@@ -1,0 +1,84 @@
+LAST WASTED TIME=N/D
+WASTED TIME = 3h
+ENERGY=857
+
+
+
+ITERATION COUNT -> 3
+BLOCKS PER TASK -> 1
+TASK COUNT -> 8/20
+
+ILOŚĆ NAUKI -> 12
+ILOŚĆ DZIAŁAŃ -> 8
+
+BLOK1 10-11 DZIAŁANIE:
+-Korekcja czasu
+-Zrób porządek z kanałami
+-Szukaj roboty
+
+
+BLOK2 11-12 5DZIAŁANIE:
+-Nauka Godot
+
+BLOK3 12-13 NAUKA: 35min
+-Research na zlecaj.pl
+
+BLOK4 13-14 DZIAŁANIE:
+-Przygotowanie dokumentacji Falownika
+
+BLOK5 14-15 NAUKA:
+-Projektowanie wzmacniacza
+
+BLOK6 15-16 DZIAŁANIE:
+-Nauka Power electronics
+
+
+BLOK7 16-17 NAUKA:
+-Nauka Godot
+
+
+BLOK8 17-18 DZIAŁANIE:
+-Projektowanie wzmacniacza
+
+BLOK9 18-19 DZIAŁANIE:
+-Nauka Godot
+
+BLOK10 19-20 DZIAŁANIE:
+-Nauka Pierwszy biznes
+
+BLOK11 20-21 DZIAŁANIE:
+-Nauka Godot
+-Planowanie dnia
+
+
+
+
+=======SKILLE========
+-Nauka japońskiego->7 BLOK
+    -https://www.youtube.com/watch?v=6p9Il_j0zjc&t=1474s
+    6.37
+-Video editing->8 BLOK
+-SCRIPT WRITTING->5 BLOK
+-Czytanie tekstu->2.2 BLOK
+-Gadanie/nagrywki->2 BLOK
+-Projektowanie elektroniki w kicadzie
+======PROJEKTY=======
+WSL01-OLIWIA->1BLOK
+
+
+
+
+RZECZY PRZYŚPIESZAJĄCE ROZWÓJ FIRMY
+
+-Dostosowanie FB
+    -Skonfigurowanie FB tak by kierował ruch na stronę
+    -Napisanie paru postów stricte o produkcie
+
+
+
+-z części należy zmontować próbne serduszko
+-zrobić sesję zdjęciową serduszka
+-kupić opakowania (koperty bąbelkowe)
+
+
+

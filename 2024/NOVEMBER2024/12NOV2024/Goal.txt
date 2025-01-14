@@ -1,0 +1,74 @@
+LAST WASTED TIME=N/D
+WASTED TIME = 3h
+ENERGY=857
+
+
+
+ITERATION COUNT -> 3
+BLOCKS PER TASK -> 1
+TASK COUNT -> 8/20
+
+ILOŚĆ NAUKI -> 12
+ILOŚĆ DZIAŁAŃ -> 8
+
+BLOK1 00-01 DZIAŁANIE:
+-Korekcja czasu
+-Pierwszy biznes
+-Czytanie
+
+
+BLOK2 15-16 5DZIAŁANIE:
+-Oglądanie power electronics
+
+
+BLOK3 16-17 NAUKA:
+-Praca nad Filmem
+
+
+BLOK4 17-18 DZIAŁANIE:
+-Praca nad AI (Research)
+
+
+
+BLOK5 18-19 NAUKA:
+-Pierwszy biznes
+
+
+
+BLOK6 20-21 DZIAŁANIE:
+-Praca nad filmem
+
+
+
+
+
+
+
+
+BLOK7 19-20 NAUKA:
+-Nauka Godot
+
+
+BLOK8 18-19 DZIAŁANIE:
+-Projektowanie wzmacniacza
+
+
+BLOK9 19-20 DZIAŁANIE:
+-Praca nad edytorem
+
+BLOK10 20-21 DZIAŁANIE:
+-Nauka Pierwszy biznes
+
+BLOK11 21-22 DZIAŁANIE:
+-Nauka Godot
+-Planowanie dnia
+
+
+NOTATKI DNIA
+-Pisanie książki to pisanie codziennie jednego artukułu
+
+
+
+
+
+

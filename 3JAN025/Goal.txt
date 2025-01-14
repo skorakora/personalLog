@@ -1,0 +1,89 @@
+LAST WASTED TIME=N/D
+WASTED TIME = 3h
+ENERGY=857
+
+
+
+ITERATION COUNT -> 3
+BLOCKS PER TASK -> 1
+TASK COUNT -> 8/20
+
+ILOŚĆ NAUKI -> 12
+ILOŚĆ DZIAŁAŃ -> 8
+
+BLOK1 17-18 DZIAŁANIE:
+-Korekcja czasu
+-Praca nad filmem (o klasach wzmacniaczy)
+
+
+
+BLOK2 18-19 DZIAŁANIE:
+-Czytanie
+
+
+BLOK3 19-20 NAUKA:
+-Oglądanie power electronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOK4 19-20 DZIAŁANIE:
+
+
+BLOK5 20-21 NAUKA:
+
+
+BLOK6 23-24 DZIAŁANIE:
+-Praca nad filmem
+
+
+BLOK7 23-0 NAUKA:
+
+
+BLOK8 0-1 DZIAŁANIE:
+
+
+
+BLOK9 19-20 DZIAŁANIE:
+-Praca nad edytorem
+
+BLOK10 20-21 DZIAŁANIE:
+
+
+BLOK11 21-22 DZIAŁANIE:
+-Planowanie dnia
+
+
+
+
+ZADANIA:
+-Czytanie
+-Praca nad filmem (o pomiarze mocy)
+-Praca nad kartą dźwiękową
+-Praca nad: Moduł przetwornicy symetrycznej
+Karta dźwiękowa oparta na STM32 (Karta USB) -> jagodzin/bananiel
+Obejżeć https://www.youtube.com/watch?v=PVbOPhTcTxA
+-Nauka Pierwszy biznes
+
+
+
