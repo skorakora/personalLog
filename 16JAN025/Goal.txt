@@ -1,0 +1,95 @@
+LAST WASTED TIME=N/D
+WASTED TIME = 3h
+ENERGY=857
+
+
+
+ITERATION COUNT -> 3
+BLOCKS PER TASK -> 1
+TASK COUNT -> 8/20
+
+ILOŚĆ NAUKI -> 12
+ILOŚĆ DZIAŁAŃ -> 8
+
+BLOK1 16-17 DZIAŁANIE:
+-Korekcja czasu
+-Oglądanie power electronics
+
+
+
+BLOK2 17-18 DZIAŁANIE:
+-Tutorial kurs SQL
+
+
+BLOK3 18-19NAUKA:
+-Dodanie komentarzy do kodu maszyny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOK4 19-20 DZIAŁANIE:
+
+
+BLOK5 20-21 NAUKA:
+
+
+BLOK6 23-24 DZIAŁANIE:
+-Praca nad filmem
+
+
+BLOK7 23-0 NAUKA:
+
+
+BLOK8 0-1 DZIAŁANIE:
+
+
+
+BLOK9 19-20 DZIAŁANIE:
+-Praca nad edytorem
+
+BLOK10 20-21 DZIAŁANIE:
+
+
+BLOK11 21-22 DZIAŁANIE:
+-Planowanie dnia
+
+
+
+
+ZADANIA:
+-Czytanie
+
+-Praca nad kartą dźwiękową
+-Praca nad: Moduł przetwornicy symetrycznej
+Karta dźwiękowa oparta na STM32 (Karta USB) -> jagodzin/bananiel
+-Nauka Pierwszy biznes
+-Dokończenie filmu nt. klas wzmacniaczy
+-Znalezienie co najmniej jednego pomysłu na projekt poprzez przeglądanie Temu/Aliexpress
+-Kontynuować czytanie książki o IOT
+-Zmierzyć wymiary obudowy podstawki bluetooth
+-Zmierzyć wymiary układu modułu bluetooth
+-Wykonać model CAD obudowy (wycięcia)
+-Pomyśleć nad scenariuszem filmu na tiktoka o podstawce (we współpracy z @Mruczący )
+
+
+
