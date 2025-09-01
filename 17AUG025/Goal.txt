@@ -1,0 +1,79 @@
+WASTED TIME = 4h
+
+
+BLOK1 16-17 DZIAŁANIE:
+-Korekcja czasu
+-Praca nad wzmacniaczem WMD ->Zrób research o modulatorze sigma-delta FPGA
+
+
+BLOK2 17-18 NAUKA:
+-ChatGPT
+
+
+BLOK3 20-21 DZIAŁANIE:
+-Praca nad wzmacniaczem WMD
+
+BLOK4 23-24 NAUKA:
+-ChatGPT
+
+BLOK5 24-1 DZIAŁANIE:
+-Praca nad danzo
+
+
+BLOK6 1-2 NAUKA:
+-ChatGPT
+
+
+BLOK7 2-3 DZIAŁANIE:
+-Praca nad wzmacniaczem WMD
+
+BLOK8 3-4 NAUKA:
+-ChatGPT:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOK9 19-20 DZIAŁANIE:
+-Praca nad edytorem
+
+BLOK10 20-21 DZIAŁANIE:
+
+
+BLOK11 21-22 DZIAŁANIE:
+-Planowanie dnia
+
+
+
+
+ZADANIA:
+
+
+-Praca nad kartą dźwiękową
+
+
+-Nauka Pierwszy biznes
+
+
+

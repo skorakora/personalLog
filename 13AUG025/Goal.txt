@@ -1,0 +1,88 @@
+LAST WASTED TIME=N/D
+WASTED TIME = 3h
+ENERGY=857
+
+TASK COUNT -> 8/20
+
+ILOŚĆ NAUKI -> 12
+ILOŚĆ DZIAŁAŃ -> 8
+
+BLOK1 12-13 DZIAŁANIE:
+-Korekcja czasu
+-Czytaj o TPA3255
+
+
+
+BLOK2 13-14 NAUKA:
+-Czytaj: https://en.wikipedia.org/wiki/Customer_to_customer
+-Czytaj: https://en.wikipedia.org/wiki/Fintech
+
+BLOK3 14-15 DZIAŁANIE:
+-Czytaj o TPA3255
+
+
+
+BLOK4 15-16 NAUKA:
+-Czytaj: https://en.wikipedia.org/wiki/Business-to-business
+
+BLOK5 16-17 DZIAŁANIE:
+-Research o wzmacniaczu WMD ->Przygotowanie planu researchu
+
+
+BLOK6 17-18 NAUKA:
+-Research o wzmacniaczu WMD -> Oglądanie filmów, gadanie z chatemGPT
+
+
+BLOK7 18-19 DZIAŁANIE:
+-Praca nad wzmacniaczem WMD
+
+BLOK8 19-20 NAUKA:
+-Czytanie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOK9 19-20 DZIAŁANIE:
+-Praca nad edytorem
+
+BLOK10 20-21 DZIAŁANIE:
+
+
+BLOK11 21-22 DZIAŁANIE:
+-Planowanie dnia
+
+
+
+
+ZADANIA:
+
+
+-Praca nad kartą dźwiękową
+
+
+-Nauka Pierwszy biznes
+
+
+

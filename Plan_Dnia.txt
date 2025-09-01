@@ -1,0 +1,24 @@
+8:00–8:15 – Pobudka, toaleta, woda z cytryną (opcjonalnie czarna kawa)
+8:15–8:30 – Przygotowanie śniadania
+8:30–8:50 – Śniadanie
+BLOK1 9:00–10:00 – Praca/nauka
+BLOK2 10:00–11:00 – Praca/nauka
+11:00–11:10 – Przygotowanie II śniadania
+11:10–11:25 – II śniadanie
+BLOK3 11:30–12:30 – Praca/nauka
+12:30–13:00 – Odpoczynek przed obiadem
+13:00–13:30 – Obiad (gotowy)
+BLOK4 13:30–14:30 – Praca/zajęcia
+BLOK5 14:30–15:30 – Praca/zajęcia
+15:30–15:40 – Przygotowanie podwieczorku
+15:40–16:00 – Podwieczorek
+BLOK6 16:00–17:00 – Praca/zajęcia
+BLOK7 17:00–18:00 – Praca/zajęcia
+18:00–18:15 – Przygotowanie kolacji
+18:15–18:35 – Kolacja
+BLOK8 18:40–19:40 – Praca/zajęcia
+BLOK9 19:40–20:40 – Praca/zajęcia
+20:40–21:00 – Lekka aktywność fizyczna (spacer)
+BLOK10 21:00–22:00 – Praca/zajęcia
+22:00–23:00 – Relaks, rozciąganie, przygotowanie do snu
+23:00 – Sen
