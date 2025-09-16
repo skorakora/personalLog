@@ -1,0 +1,24 @@
+-Kanapka Gyros
+	Chleb tostowy pełnoziarnisty 2 kromki
+	Mięso kebab
+	Sałata lodowa
+	Sos czosnkowy
+
+-Kanapka Pasta Jajeczna
+	-Chleb tostowy pełnoziarnisty 2 kromki
+	-Jajka na twardo 2szt
+	-Majonez 2 łyżeczki
+	-Szczypiorek
+	
+-Kanapka Kurczak wędzony
+	-Chleb tostowy pełnoziarnisty 2 kromki
+	-Pokrojona połowa wędzonego kurczaka
+	-2 plasterki sera żółtego gouda
+	-1 ogórek kiszony
+	-2 łyżeczki Musztardy miodowej
+	
+-Kanapka z polędwicą z kurczaka
+	-Chleb tostowy pełnoziarnisty 2 kromki
+	-Polędwica Drobiowa 7 Plasterków
+	-Miks sałat
+	-Sos jogurtowo ziołowy

@@ -1,0 +1,231 @@
+PRIORYTET1:
+
+PRIORYTET2:
+
+-Personal developement
+    Pogadaj z chatemGPT o
+    -Seminar
+    -Retreat_(spiritual)
+    -Personal_development_planning
+    -Social_relation
+    -Spirituality
+
+    -Social_entrepreneurship
+    -Civic_engagement
+    -Self-awareness
+    -Self-knowledge_(psychology)
+    -Skill
+    -Self-esteem
+    -Identity_(social_science)
+    -Human_Potential_Movement
+    -Lifestyle_(social_sciences)
+    -Health
+    -Wealth_management
+    -Human_development_(economics)
+    -Income_distribution#Income_inequality
+    -Employability
+    -Quality_of_life
+    -Brain_training
+    -Experiential_learning
+    -Emotional_intelligence
+    -Social_mobility
+    -Quality_of_life
+    -Improvement
+    -Neuroscience
+    -Biohappiness
+
+PRIORYTET3:
+
+
+
+
+-Poszerzaj wiedzę: PRAWO:
+    -Jednostka zależna
+    -Proces_biznesowy
+    -Udział (prawo)
+    -Przedsiębiorstwo
+    -Akcja_(finanse)
+
+-Study how to enchance your body capabilites
+    -Methylphenidate
+    -Anti-obesity_medication
+    -Generic_drug
+    -Sertraline
+    -Anxiolytic
+    -Terminal_lucidity
+    -Modafinil
+    -Nootropic
+    -Pharmacology
+    -Entactogen
+    -Neuroenhancement
+    -Body_hacking
+    -Life_extension
+    -Eugenics
+    -Fitness_(biology)
+    -Transhumanism
+    -Cognitive_liberty
+    -Human_genetic_enhancement
+    -Gene_therapy
+    -Brain_implant
+    -Brain–computer interface
+    -Cyberware
+    -Mind_uploading
+    -Parenteral_nutrition
+
+
+-Poszerzaj wiedzę: ZARZĄDZANIE:
+    -Zarządzanie
+
+-Carry on with expanding knowledge
+
+	-Socjologia, ekonomia i zarządzanie
+
+		
+		
+		
+		
+		
+		-Private_equity
+		-Umowa_inwestycyjna
+		-Giełda papierów wartościowych
+		-Rada_nadzorcza
+		-Osoba_fizyczna
+		-Marketing
+		-Strategia_marketingowa
+		-Biznesplan
+		-Międzynarodowa Korporacja Finansowa
+		-Europejski_Bank_Odbudowy_i_Rozwoju
+		-Inwestor
+		-Finanse przedsiębiorstwa
+		-Produkt_krajowy_brutto
+		-Fundusz inwestycyjny
+		-Industrial_Revolution
+		-Energy development
+		-Steam_turbine
+		-Technological_singularity
+
+	-Psychologia i neurobiologia
+		-Zespół łamliwego chromosomu X
+		-Odruch orientacyjny (Psychologia poznawcza)
+		-Diagnostyka różnicowa (Diagnostyka medyczna)
+		-Zespół Aspergera
+		-Test ciągłego wykonywania (Neuropsychologia)
+		-Test_inteligencji
+		-Zaburzenia_psychiczne
+		-Funkcje_wykonawcze (Neuropsychologia)
+		-Deficyt_uwagi
+		-Psychoterapia_behawioralna
+		-Bezstresowe_wychowanie
+		-Zachowania_eksploracyjne (Psychologia)
+		-Dlaczego sie nudzimy
+		-Dysonans_poznawczy
+		-Psychologia społeczna
+		-Teoria_spostrzegania_siebie (Psychologia społeczna)
+		-Teoria autoafirmacji (Psychologia osobowości)
+		-Model_utrzymywania_samooceny
+		-Pickup_artist (Pickup artistry)
+		-Intelligence
+		-Evidence-based_education
+		-Social_norm
+		-Neuromarketing
+		
+	-Technologia i informatyka
+		-PCI_Express
+		-Root complex (PCI Express)
+		-Mostek północny
+		-Direct_Media_Interface
+		-Expansion_card (in computing)
+		-Freeware
+		-Proces_(informatyka)
+		-Hierarchiczny system plików
+		-Framework
+		-Internet_of_things
+		-Technology
+
+	-Biologia, medycyna i chemia
+		-Glikemia
+		-Tkanka tłuszczowa
+		-Noradrenalina
+		-Lipoliza
+		-Estry
+		-Gliceryna
+		-Kwas_palmitynowy
+		-Kwas_oleinowy
+		-Miażdżyca
+		-Insulin
+		-Dieta niskowęglowodanowa
+		-Organic_compound (Organic chemistry)
+		-Catenation (Inorganic chemistry)
+		-Peptide
+		-Peptide_hormone
+		-Blood_sugar_level
+		-Lipogenesis
+		-Glycogenesis
+		-Glycogen
+		-Skeletal_muscle
+		-Adipocyte
+		-Glucose
+		-Carbohydrate
+		-Metabolism
+		-Hormone
+		-Anabolism
+		-Gene
+		-Pancreatic_islets
+		-Beta_cell
+		-Primordial_germ_cell_migration
+		-Hipoksja
+		-Asfiksja
+		-Neurotroficzny czynnik pochodzenia mózgowego (Czynniki wzrostu)
+		-Serotonina
+		-Neuroprzekaźnik
+		-Dopamina
+		-Glukoza
+		-Stymulanty (Farmakologia)
+		-Bupropion
+		-Adderall
+		-Wychwyt_zwrotny (Neurofizjologia)
+		-Ethanol
+		-Nanomedicine
+		-3D_bioprinting
+		-Breast_augmentation
+		-Implant_(medicine)
+
+	-Fizyka i matematyka
+		-Wave_function (Wave functions and wave equations in modern theories)
+		-Lorentz_scalar
+		-Operator_(physics)
+		-Probability_amplitude
+		-Many-body_problem
+		-Hartree–Fock method (Electronic structure methods)
+		-Slater_determinant
+		-Permanent_(mathematics)
+		-Theory_of_relativity
+		-Klein–Gordon equation
+		-Pauli_equation
+		-Special_relativity
+		-Dirac_equation
+		-Born_rule
+		-Schrödinger equation
+		-Wave_equation
+		-Wave–particle duality
+		-Interpretations_of_quantum_mechanics
+		-Fourier_transform
+		-Position_and_momentum_spaces (Quantum mechanics)
+		-Superposition_principle
+		-Hilbert_space
+		-Copenhagen_interpretation
+		-Quantum_state
+		-Quantum_mechanics
+		-Matter wave (Foundational quantum physics)
+
+
+	-Kultura, wydarzenia i edukacja
+		-Encyklopedia
+		-Festival
+		-Convention_(meeting)
+	   
+
+-Study how to learn effectively
+-Study how to eat healthy
+
+-Kontynuuj naukę pierwszy biznes
