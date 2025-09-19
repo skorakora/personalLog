@@ -1,15 +1,26 @@
 WASTED TIME = 9h
 
 
-BLOK1 19-20 DZIAŁANIE:
+BLOK1 16-17 DZIAŁANIE:
 -Korekcja czasu
+-Napisać e-mail
 -Praca nad serwerem
 
-BLOK2 20-21 NAUKA :
+BLOK2 18-19 DZIAŁANIE:
+-Praca nad serwerem
+
+
+BLOK3 19-20 DZIAŁANIE:
+-Praca nad serwerem
+
+
+BLOK4 20-21 NAUKA:
 -Nauka Japońskiego
 -Nauka Chińskiego
 
 
+BLOK5 21-22 DZIAŁANIE:
+-Ogarnianie Freelancing
 
 
 
@@ -32,84 +43,7 @@ BLOK2 20-21 NAUKA :
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BLOK3 24-1 DZIAŁANIE:
--Praca nad selfforge.app
-
-
-BLOK4 1-2 NAUKA:
--Nauka Japońskiego
--Nauka Chińskiego
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BLOK5 23-24 DZIAŁANIE:
--Praca nad selfforge.app
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BLOK6 2-3 DZIAŁANIE:
+BLOK6 21-22 DZIAŁANIE:
 -Ogarnianie Freelancing
 
 
