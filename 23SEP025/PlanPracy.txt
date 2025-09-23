@@ -1,0 +1,11 @@
+PLAN ZADAŃ:
+-Zrobić task z TPA3255
+-Kontynuować pracę nad portfolio
+-Zrobić task z TPA3255
+-Ogarnąć plan na promowanie frerlancing
+
+
+ZADANIA
+-Zaprojektować płytkę TPA3255
+-Przerobić płytkę frontend
+-Przenieść złącze na płytce main z PA11D_V3
