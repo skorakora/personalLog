@@ -1,16 +1,47 @@
 WASTED TIME = 4h
 
 
-BLOK1 14-15 DZIAŁANIE:
+BLOK1 19-20 DZIAŁANIE:
 -Korekcja czasu
+-Ogarnianie Studia
 -Ogarnianie Freelancing
 
-BLOK2 15-16 DZIAŁANIE:
+BLOK2 20-21 NAUKA:
+-Nauka Japońskiego
+-Nauka Chińskiego
+
+
+BLOK3 21-22 DZIAŁANIE:
 -Ogarnianie Freelancing
 
 
-BLOK3 16-17 DZIAŁANIE:
--Ogarnianie Freelancing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 BLOK4 17-18 NAUKA:
