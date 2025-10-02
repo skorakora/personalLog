@@ -1,0 +1,40 @@
+-Zrób research na jakich forach możesz się reklamować
+-Dodaj na stronie przycisk zachęcający do akcji "get quote"
+-Uporządkuj profil na linkedin
+	-Zmień miasto
+	-Zmień opis
+
+
+
+
+
+
+	
+MARKETING:	
+	-Wyszukiwanie firm na linkedin i proponowanie im swoich usług
+	-Marketing na elektrodzie -> Bazar/Ogłoszenia
+	-Marketing na forbot -> sprzedam/kupię/zamienię/praca
+	-Marketing na arduino forum ->
+	-Marketing na EDAboard -> EDA jobs
+	-Marketing na reddicie
+		-r/PrintedCircuitBoard
+			Publikacja falownika i dodać tam swoje usługi
+		-r/PCB
+			Publikacja falownika i dodać tam swoje usługi
+		-r/ElectricalEngineering
+			Publickacja WMD200 w LTspice i dać tam swoje usługi
+		-r/diyelectronics
+			Publikacja WZAB1 i dać tam swoje usługi
+		r/KiCad
+			Publikacja MCU001 i dać tam swoje usługi
+		
+	-Marketing na KiCad Discord -> jobs channel
+
+	
+
+
+	-Zrób posta z WMD200 na linkedin:
+	-Zrób posta o WM100 na elektrodzie
+	
+
+	
