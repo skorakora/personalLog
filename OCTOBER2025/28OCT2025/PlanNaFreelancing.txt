@@ -1,0 +1,67 @@
+ZADANIA CIĄGŁE:
+-Popraw networking
+	-Szukaj elektroników
+	-Szukaj ludzi od marketingu
+	-Szukaj ludzi od programowania embeded
+
+LISTA ZADAŃ POJEDYŃCZYCH
+-Zrobić stronę internetową
+-Napisz do kół naukowych że szukasz ludzi
+-Poprawić post na elektrodzie z chatemGPT
+-Wstawić post na elektrodzie
+-Napisać ogólną wiadomość do firm które mogłyby potrzebować firmy produkującej elektronikę
+-Zlecić znalezienie metod kontaktu do wybranych firm
+-Zlecić wysłanie wiadomości do firm które mogą być zainteresowane na podstawie list
+-Przygotować uniwersalny post o WM100 w jezyku polskim i angielskim (post musi też zawierać drobną ofertę)
+-Przygotować uniwersalny post o WMD200 w jezyku polskim i angielskim (post musi też zawierać drobną ofertę)
+-Przygotować uniwersalny post o FM25060 w jezyku polskim i angielskim (post musi też zawierać drobną ofertę)
+-Powrzucać uniwersalne posty na reddita i grupy facebookowe
+
+
+
+
+
+
+
+
+	
+MARKETING:	
+	-Wyszukiwanie firm na linkedin i proponowanie im swoich usług
+	-Marketing na elektrodzie forach -> Patrz discord
+	-Marketing na reddicie -> Patrz discord
+	
+	-Marketing na KiCad Discord -> jobs channel
+
+
+	
+
+
+
+
+KOŁA NAUKOWE:
+	
+-Koło Naukowe Maszyn i Napędów Elektrycznych KOMIN
+-Koło Naukowe Mikroelektroniki i Nanoelektroniki
+-Koło Naukowe Robotyki "BIONIK"
+-Koło Naukowe Robotyków
+-Koło Naukowe Smart City
+-Koło Naukowe Systemów Scalonych
+-Koło Naukowe Systemów Wbudowanych PROTON EMBEDDED SYSTEMS
+-Koło Naukowe Układów Cyfrowych "DEMAIN"
+-Koło Naukowe Zarządzania Projektami "PMArt"
+-Studenckie Koło Naukowe "KONSTRUKTOR"
+-Koło Naukowe Automatyki i Robotyki "Robomatic"
+-Koło Naukowe Automatyki i Wbudowanych Układów "Kawka" PW
+-Koło Naukowe Elektroakustyki
+-Koło Naukowe Inżynierii Oprogramowania
+-Koło Naukowe Komputerowego Wspomagania Projektowania
+-Innovative Information Technology Science Club Delta (IIT)
+
+
+	MARKETING I ZARZĄDZANIE:
+		-Marketingowe Koło Naukowe „AdVenture”
+		-SKN Marketingu
+		-SKN HRview
+		-SKN IDEA
+		-Studenckie Koło Naukowe „MANAGER”
+		-Koło Naukowe Entrepreneurship and Intercultural Communication

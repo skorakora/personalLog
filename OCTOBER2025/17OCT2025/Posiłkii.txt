@@ -1,0 +1,60 @@
+Śniadanie/II śniadanie:
+	-Kanapka Gyros ->Mealprep |?|?|B:?|T:?|W:?|?
+		Chleb tostowy pełnoziarnisty 2 kromki
+		Mięso kebab
+		Sałata lodowa
+		Sos czosnkowy
+
+	-Kanapka Pasta Jajeczna ->Mealprep |?|?|B:?|T:?|W:?|?
+		-Chleb tostowy pełnoziarnisty 2 kromki
+		-Jajka na twardo 2szt
+		-Majonez 2 łyżeczki
+		-Szczypiorek
+	
+	-Kanapka Kurczak wędzony ->Mealprep |?|?|B:?|T:?|W:?|?
+		-Chleb tostowy pełnoziarnisty 2 kromki
+		-Pokrojona połowa wędzonego kurczaka
+		-2 plasterki sera żółtego gouda
+		-1 ogórek kiszony
+		-2 łyżeczki Musztardy miodowej
+	
+	-Kanapka z polędwicą z kurczaka ->Mealprep |?|?|B:?|T:?|W:?|?
+		-Chleb tostowy pełnoziarnisty 2 kromki
+		-Polędwica Drobiowa 7 Plasterków
+		-Miks sałat
+		-Sos jogurtowo ziołowy
+		
+
+Obiad:
+	-Jajecznica z kiełbasą ->10min |?|?|B:?|T:?|W:?|?
+		-1/4 kostki masła |2.5PLN
+		-1/4 dużej kiełbasy z biedry
+		-4 jajka
+	
+	-Kurczak z ryżem ->Mealprep |500g|900kcal|B:53g|T:28g|W:102g|15PLN
+		-Pierś z kurczaka
+		-Ryż
+		-Sos bologense
+		
+	-Kurczak z ryżem kalafiorowym ->Mealprep |?|?|B:?|T:?|W:?|?
+		-Pierś z kurczaka
+		-Ryż
+		-Sos bologense
+
+
+
+
+Kolacja:
+	-Sałatka z kurczakiem ->10min |?|?|B:?|T:?|W:?|?
+		-Pierś z kurczaka wędzona ?
+		-Sałatka ?
+		-Ser mozzarella 1/2 ?
+
+
+
+
+Do wyeliminowania:
+	-Lasagne donatello
+	-Zupki chińskie
+	-Hot dog z żabki
+	-Kurczak z ryżem

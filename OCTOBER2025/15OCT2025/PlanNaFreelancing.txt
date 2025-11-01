@@ -1,0 +1,62 @@
+ZADANIA CIĄGŁE:
+-Popraw networking
+	-Szukaj elektroników
+	-Szukaj ludzi od marketingu
+	-Szukaj ludzi od programowania embeded
+
+LISTA ZADAŃ POJEDYŃCZYCH
+
+
+
+
+
+
+	
+MARKETING:	
+	-Wyszukiwanie firm na linkedin i proponowanie im swoich usług
+	-Marketing na elektrodzie -> Bazar/Ogłoszenia
+	-Marketing na forbot -> sprzedam/kupię/zamienię/praca
+	-Marketing na arduino forum ->
+	-Marketing na EDAboard -> EDA jobs
+	-Marketing na reddicie
+		-r/PrintedCircuitBoard
+			Publikacja falownika i dodać tam swoje usługi
+		-r/PCB
+			Publikacja falownika i dodać tam swoje usługi
+		-r/ElectricalEngineering
+			Publickacja WMD200 w LTspice i dać tam swoje usługi
+		-r/diyelectronics
+			Publikacja WZAB1 i dać tam swoje usługi
+		r/KiCad
+			Publikacja MCU001 i dać tam swoje usługi
+		
+	-Marketing na KiCad Discord -> jobs channel
+
+	
+
+
+	-Zrób posta z WMD200 na linkedin:
+	-Zrób posta o WM100 na elektrodzie
+	
+
+
+
+
+KOŁA NAUKOWE:
+	
+-Koło Naukowe Maszyn i Napędów Elektrycznych KOMIN
+-Koło Naukowe Mikroelektroniki i Nanoelektroniki
+-Koło Naukowe Robotyki "BIONIK"
+-Koło Naukowe Robotyków
+-Koło Naukowe Smart City
+-Koło Naukowe Systemów Scalonych
+-Koło Naukowe Systemów Wbudowanych PROTON EMBEDDED SYSTEMS
+-Koło Naukowe Układów Cyfrowych "DEMAIN"
+-Koło Naukowe Zarządzania Projektami "PMArt"
+-Studenckie Koło Naukowe "KONSTRUKTOR"
+-Koło Naukowe Automatyki i Robotyki "Robomatic"
+-Koło Naukowe Automatyki i Wbudowanych Układów "Kawka" PW
+-Koło Naukowe Elektroakustyki
+-Koło Naukowe Inżynierii Oprogramowania
+-Koło Naukowe Komputerowego Wspomagania Projektowania
+-Innovative Information Technology Science Club Delta (IIT)

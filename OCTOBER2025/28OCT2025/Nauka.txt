@@ -1,0 +1,265 @@
+
+		
+		
+		
+		-Pancreatic_islets
+		-Beta_cell
+		-Primordial_germ_cell_migration
+		-Hipoksja
+		-Asfiksja
+		-Neurotroficzny czynnik pochodzenia mózgowego (Czynniki wzrostu)
+		-Serotonina
+		-Neuroprzekaźnik
+		-Dopamina
+		-Stymulanty (Farmakologia)
+		-Bupropion
+		-Adderall
+		-Wychwyt_zwrotny (Neurofizjologia)
+		-Ethanol
+		-Nanomedicine
+		-3D_bioprinting
+		-Breast_augmentation
+		-Implant_(medicine)
+
+	-Fizyka i matematyka
+		-Wave_function (Wave functions and wave equations in modern theories)
+		-Lorentz_scalar
+		-Operator_(physics)
+		-Probability_amplitude
+		-Many-body_problem
+		-Hartree–Fock method (Electronic structure methods)
+		-Slater_determinant
+		-Permanent_(mathematics)
+		-Theory_of_relativity
+		-Klein–Gordon equation
+		-Pauli_equation
+		-Special_relativity
+		-Dirac_equation
+		-Born_rule
+		-Schrödinger equation
+		-Wave_equation
+		-Wave–particle duality
+		-Interpretations_of_quantum_mechanics
+		-Fourier_transform
+		-Position_and_momentum_spaces (Quantum mechanics)
+		-Superposition_principle
+		-Hilbert_space
+		-Copenhagen_interpretation
+		-Quantum_state
+		-Quantum_mechanics
+		-Matter wave (Foundational quantum physics)
+
+
+	-Kultura, wydarzenia i edukacja
+		-Encyklopedia
+		-Festival
+		-Convention_(meeting)
+	  
+
+
+-https://www.youtube.com/watch?v=QA4w8Yg55Ek&utm_source=chatgpt.com
+
+
+
+
+-https://www.youtube.com/watch?v=cY0VKVCHGzg 3:39
+-https://www.youtube.com/watch?v=Pwpd38GrTg4
+-https://www.youtube.com/watch?v=-72g1V6v0GQ	  
+-https://www.youtube.com/watch?v=f6_svRNJYls
+-https://www.youtube.com/watch?v=YRDZ2Vn_6J4
+-https://www.youtube.com/watch?v=v8seW2BZits
+-https://www.youtube.com/watch?v=ZYUYOXmo9UU   25:02
+-https://www.youtube.com/watch?v=exeaUp7_ovI
+-https://www.youtube.com/watch?v=qdjsre3tnAY
+-https://www.youtube.com/watch?v=inA9lg1Brj8
+-https://www.youtube.com/watch?v=3FJsfiiYRPA
+
+
+-https://www.youtube.com/watch?v=I_MNw4EWer0
+-https://www.youtube.com/watch?v=sKOUOU-hVEs
+-https://www.youtube.com/watch?v=Rr9NBtrA4t4
+-https://www.youtube.com/watch?v=hNHTwpegFBw
+-https://www.youtube.com/watch?v=FXZJ6jrpIKU&list=PLXvLToQzgzdeRWySVRb3yeEbwVsNGU4jY
+-https://www.youtube.com/watch?v=lLknjLemY-M
+
+-https://www.youtube.com/watch?v=KUzkHQANSzQ&list=PL3aaAq2OJU5E7YRrqhc1NNu2PLNSq-Uoi&index=5
+-https://www.youtube.com/watch?v=uZw1v1z_klc&list=PL3aaAq2OJU5E7YRrqhc1NNu2PLNSq-Uoi&index=6
+-https://www.youtube.com/watch?v=uZw1v1z_klc&list=PL3aaAq2OJU5E7YRrqhc1NNu2PLNSq-Uoi&index=7
+
+-Czym się różni router od switcha
+-Pogadać z chatemGPT o tym co mogą dać studia z zarządzania
+-Co to jest umowa o pracę
+-Co to jest umowa o dzieło
+-Co to jest umowa o zlecenie
+-Czym się różnią
+-Sptyać się o to co tak naprawde kupuję na stronach typu XTB, E-toro, revolut.
+	-Czy to są rzeczywiste akcje czy zakład.
+	
+-https://diag.pl/pacjent/artykuly/biohacking-jak-moze-wplynac-na-poprawe-twojego-zdrowia/
+-https://www.youtube.com/watch?v=NpRX5R54udE
+-Pogadaj z chatemGPT o:
+	-metodzie Crispr-Cas9
+	-Metodach life extension
+	
+-Altos Labs
+-Sepsa
+-Filozofia
+-Filologia
+
+-Poszerzaj wiedzę: ZARZĄDZANIE:
+    -Zarządzanie
+	
+-Pogadaj z chatemGPT o:
+	-Neuralink
+	-Nvidia Groot
+	-Jak działa finansowanie boston dynamics
+	-Skąd boston dyamics bierze pieniądze na baadania
+	
+-Czym jest Show biznes
+-Jaka jest historia vlogów
+-Jaka jest różnica pomiędzy politechniką a uniwersytetem, i dlaczego nie ma politechnik na zachodzie
+
+
+-Pogadaj z chatemGPT o:
+	-Ogólnie o witaminach
+	-Witaminie C
+	-Witaminie D
+	-Witamininach z grupy B 
+	-Jak działa finansowanie neuralink
+	-Skąd Neuralink bierze pieniądze na baadania
+	-Co to jest konferencja
+	-Dunning - kruger effect
+	
+-co to jest thunderbolt
+-Jaka jest struktura organizacji która tworzy jądro linuxa
+-Jak wyglądało finansowanie w fikcyjnej organizacji nerv w evangelion, i co to był projekt eva
+-Kto to jest napoleon
+-Czy napoleon porównywalny jest z hitlerem
+-Pogadaj o zjawisku pozytywnym napoleona w polsce a negatywnym za granicą
+-Co to jest APN
+-Co to jest brama domyślna
+-Dlaczego przy bootowaniu ubuntu 22.04 najpierw są takie duże litery i rozmazane a potem robią się mniejsze i wyraźne
+
+-Co to jest kokaina
+-Jak działa kokaina
+-Do czego używana jest kokaina
+-Jaka jest różnica pomiędzy freeRtos a ChibyOS/RT
+-Jaka jest struktura organizacji w poltechnice warszawskiej - kto jest na szczycie.
+
+-Pogadaj z chatemGPT o:
+	-Kwas cytrynowy
+	-DMEM
+	
+-Co to jest leczenie przyczynowe
+-autyzm
+-Zaburzenie neurorozwojowe
+
+-Pogadaj z chatemGPT o:
+	-Zaburzenia seksualne
+	-Zaburzenia przy podrywie, flirtowaniu etc.
+	
+-Jak działa soda dispenser (taki jak w KFC)
+-Kto produkuje syropy coca cola, czy firmy na całym świecie produkują syrop czy tylko mieszają syrop z wodą a syrop produkuje tylko jedna firma
+-Dlaczego kasety magnetofonowe stały się tak popularne mimo tego że nie były projektowane pod muzykę
+-Ile apple % ceny urządzenia wydaje na research ile na marketing a ile na produckję, jak to wygląda w xiaomi i samsung
+-Kim jest manager (ogólnie)
+-czym się zajmuje manager (ogólnie)
+-Co to jest rynek SOHO
+-Co to jest redundancja
+-Czy easyEDA jest open source
+-W jakich językach jest napisane easyEDA
+-Z jakich technologii korzysta netflix
+-W jakim języku jest napisany netflix
+-Gdzie hostowany jest netflix
+
+-Pogadaj z chatemGPT o:
+	-AWS
+	-AWS dla większych firm
+	-Roboty Helix
+	
+	
+-Jak działa wyświetlanie obrazu w systemie linux (chodzi mi o window managery )
+-Dlaczego wszystkie koty lubią siedzieć w tzw chlebek
+-Skąd się bierze rudy kolor włosów
+-Jak przebiega nowotwór, od pojawienia się aż do śmierci
+-Co to znaczy et al. rok przy cytowaniu
+
+-Pogadaj z chatemGPT o:
+	-Human conectome project
+	
+-Jak projektować filmy by wydzielały dużo dopaminy u oglądającego (jak sprawić by dzieci 10-15 lat oglądały nasz film)
+-Dlaczego dziewczyny się "puszczają" gdy trafi się okazja (chodza po klubach etc) a gdy zapytane dlaczego to robią to odpowiadają ze muszą sie wyszaleć. Opisz mi to zjawisko pod względem naukowym a nie poprawnym politycznie
+
+-Pogadaj z chatemGPT o: 
+	-Ospa prawdziwa
+	
+-Czym/kim są klakierzy
+
+-Dlaczego na lokacie nie da się zarobić, dlaczego banki dają lokatę zbliżoną do inflacji zamiast większą
+-Co to jest kapitalizacja przy lokacie
+-Co to jest SUV
+
+-Pogadaj z chatemGPT o:
+	-Marketing firmy apple
+	
+	
+-Co to jest source forge
+-Czy LATEX ma jeszcze zastosowanie w pisaniu publikacji naukowych czy bardziej popularne są takie programy jak MS word/libre office writer
+-Co to jest praca w trybie WYSIWYG
+
+-https://pl.wikipedia.org/wiki/Hatsune_Miku
+-Jak działa OZEMPIC
+-Cukrzyca typu 2
+-Cukrzyca typu 1
+-Leki obniżające apetyt
+
+-Jakie są przykładowe implementacje Internet of things
+
+-https://en.wikipedia.org/wiki/GNOME
+
+-https://archivyrep.wordpress.com/2021/12/02/peridot-an-unintentional-archivist-records-manager-or-something-else-entirely/
+-RT-LINUX
+-Embeded linux
+
+-Pogadaj z chatemGPT o:
+	-Testosteron
+	
+-Co to jest klefedron
+-https://pl.wikipedia.org/wiki/Adam_S%C5%82odowy
+-https://pl.wikipedia.org/wiki/Wy%C5%BCsza_Szko%C5%82a_Oficerska_Wojsk_Obrony_Przeciwlotniczej
+-https://pl.wikipedia.org/wiki/Major
+-https://pl.wikipedia.org/wiki/Oficer_(wojsko)
+
+-Jakie związki zawiera cukier sklepowy
+
+-Pogadaj z chatemGPT o:
+	-Tłuszcze trans
+	
+-Na czym polega insulinooporność jak ktoś jest otyły
+-Jakie są obecnie znane metody odwracania procesu starzenia
+
+-Czym różni się całka nieoznaczona od oznaczonej
+
+-Co to jest enzym
+
+-Jak działa uczucie głodu, i dlaczego zjedzenie cukierków nie daje sytości mimo że podbijają poziom glukozy
+-Dlaczego się męczymy podczas wysiłku fizycznego, czy ma to związek z wyczerpaniem glikogenu w mięśniach?
+
+-Pogadaj z chatemGPT o:
+	-Izomery
+	-Możliwość magazynowania energii w izomerach
+	-Baterie izomerowe
+	
+-Czy jest jakiś teoretyczny limit ile informacji może zgromadzić ludzki mózg?
+
+-Co to jest neocotex
+-Jak wygląda regulacja testosteronu i estrogenu u mężczyzn, co wpływa na poziom jednego i drugiego
+
+-Co to jest model Eksploatacja-eksploracja
+
+-Co to jest meta-technologia
+
+-Obejżyj:
+	-Nauka-Matchematics ->Calculus
+	
+-Jakie są typy spółek w polsce

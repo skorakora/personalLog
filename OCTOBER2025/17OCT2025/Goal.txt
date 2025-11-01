@@ -1,0 +1,148 @@
+WASTED TIME = 4h
+
+
+BLOK1 13-14 NAUKA:
+-Nauka chinskiego
+-Nauka Japońskiego
+
+
+BLOK2 14-15 DZIAŁANIE:
+-Studia
+
+
+
+BLOK3 15-16 DZIAŁANIE:
+-Studia
+
+
+
+BLOK4 16-17 DZIAŁANIE:
+-Studia
+
+
+BLOK5 19-20 DZIAŁANIE-> MEALPREP:
+if(wymagany mealprep):
+	-Mealprep
+	
+else:
+	-ChatGPT
+
+
+
+BLOK6 21-22 DZIAŁANIE:
+-Projektowanie posiłków
+-Praca
+
+
+
+BLOK7 22-23 DZIAŁANIE:
+-Praca
+
+
+
+BLOK8 23-24 DZIAŁANIE:
+-Praca
+
+
+BLOK9 24-1 NAUKA:
+-ChatGPT
+
+
+BLOK10 1-2 DZIAŁANIE:
+-Praca nad freelacning
+
+
+
+BLOK11 2-3 DZIAŁANIE
+-Studia
+
+
+BLOK12 3-4 DZIAŁANIE:
+-Studia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOK13 3-4 DZIAŁANIE:
+-Nauka CHińskiego
+-Nauka japońskiego
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOK14 23-24 DZIAŁANIE:
+-Studia
+
+
+BLOK15 24-1 DZIAŁANIE:
+-Studia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+q7!V_Nc7(M2G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOK11 22-23 DZIAŁANIE:
+-Praca nad WMD200
+
+
+
+
+
+
+
