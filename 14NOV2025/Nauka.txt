@@ -1,0 +1,361 @@
+
+-Pogadaj z chatemGPT o:
+	-metodzie Crispr-Cas9
+	-Metodach life extension
+	
+-Altos Labs
+-Sepsa
+-Filozofia
+-Filologia
+
+-Poszerzaj wiedzę: ZARZĄDZANIE:
+    -Zarządzanie
+	
+-Pogadaj z chatemGPT o:
+	-Neuralink
+	-Nvidia Groot
+	-Jak działa finansowanie boston dynamics
+	-Skąd boston dyamics bierze pieniądze na baadania
+	
+-Czym jest Show biznes
+-Jaka jest historia vlogów
+-Jaka jest różnica pomiędzy politechniką a uniwersytetem, i dlaczego nie ma politechnik na zachodzie
+
+
+-Pogadaj z chatemGPT o:
+	-Ogólnie o witaminach
+	-Witaminie C
+	-Witaminie D
+	-Witamininach z grupy B 
+	-Jak działa finansowanie neuralink
+	-Skąd Neuralink bierze pieniądze na baadania
+	-Co to jest konferencja
+	-Dunning - kruger effect
+	
+-co to jest thunderbolt
+-Jaka jest struktura organizacji która tworzy jądro linuxa
+-Jak wyglądało finansowanie w fikcyjnej organizacji nerv w evangelion, i co to był projekt eva
+-Kto to jest napoleon
+-Czy napoleon porównywalny jest z hitlerem
+-Pogadaj o zjawisku pozytywnym napoleona w polsce a negatywnym za granicą
+-Co to jest APN
+-Co to jest brama domyślna
+-Dlaczego przy bootowaniu ubuntu 22.04 najpierw są takie duże litery i rozmazane a potem robią się mniejsze i wyraźne
+
+-Co to jest kokaina
+-Jak działa kokaina
+-Do czego używana jest kokaina
+-Jaka jest różnica pomiędzy freeRtos a ChibyOS/RT
+-Jaka jest struktura organizacji w poltechnice warszawskiej - kto jest na szczycie.
+
+-Pogadaj z chatemGPT o:
+	-Kwas cytrynowy
+	-DMEM
+	
+-Co to jest leczenie przyczynowe
+-autyzm
+-Zaburzenie neurorozwojowe
+
+-Pogadaj z chatemGPT o:
+	-Zaburzenia seksualne
+	-Zaburzenia przy podrywie, flirtowaniu etc.
+	
+-Jak działa soda dispenser (taki jak w KFC)
+-Kto produkuje syropy coca cola, czy firmy na całym świecie produkują syrop czy tylko mieszają syrop z wodą a syrop produkuje tylko jedna firma
+-Dlaczego kasety magnetofonowe stały się tak popularne mimo tego że nie były projektowane pod muzykę
+-Ile apple % ceny urządzenia wydaje na research ile na marketing a ile na produckję, jak to wygląda w xiaomi i samsung
+-Kim jest manager (ogólnie)
+-czym się zajmuje manager (ogólnie)
+-Co to jest rynek SOHO
+-Co to jest redundancja
+-Czy easyEDA jest open source
+-W jakich językach jest napisane easyEDA
+-Z jakich technologii korzysta netflix
+-W jakim języku jest napisany netflix
+-Gdzie hostowany jest netflix
+
+-Pogadaj z chatemGPT o:
+	-AWS
+	-AWS dla większych firm
+	-Roboty Helix
+	
+	
+-Jak działa wyświetlanie obrazu w systemie linux (chodzi mi o window managery )
+-Dlaczego wszystkie koty lubią siedzieć w tzw chlebek
+-Skąd się bierze rudy kolor włosów
+-Jak przebiega nowotwór, od pojawienia się aż do śmierci
+-Co to znaczy et al. rok przy cytowaniu
+
+-Pogadaj z chatemGPT o:
+	-Human conectome project
+	
+-Jak projektować filmy by wydzielały dużo dopaminy u oglądającego (jak sprawić by dzieci 10-15 lat oglądały nasz film)
+-Dlaczego dziewczyny się "puszczają" gdy trafi się okazja (chodza po klubach etc) a gdy zapytane dlaczego to robią to odpowiadają ze muszą sie wyszaleć. Opisz mi to zjawisko pod względem naukowym a nie poprawnym politycznie
+
+-Pogadaj z chatemGPT o: 
+	-Ospa prawdziwa
+	
+-Czym/kim są klakierzy
+
+-Dlaczego na lokacie nie da się zarobić, dlaczego banki dają lokatę zbliżoną do inflacji zamiast większą
+-Co to jest kapitalizacja przy lokacie
+-Co to jest SUV
+
+-Pogadaj z chatemGPT o:
+	-Marketing firmy apple
+	
+	
+-Co to jest source forge
+-Czy LATEX ma jeszcze zastosowanie w pisaniu publikacji naukowych czy bardziej popularne są takie programy jak MS word/libre office writer
+-Co to jest praca w trybie WYSIWYG
+
+-https://pl.wikipedia.org/wiki/Hatsune_Miku
+-Jak działa OZEMPIC
+-Cukrzyca typu 2
+-Cukrzyca typu 1
+-Leki obniżające apetyt
+
+-Jakie są przykładowe implementacje Internet of things
+
+-https://en.wikipedia.org/wiki/GNOME
+
+-https://archivyrep.wordpress.com/2021/12/02/peridot-an-unintentional-archivist-records-manager-or-something-else-entirely/
+-RT-LINUX
+-Embeded linux
+
+-Pogadaj z chatemGPT o:
+	-Testosteron
+	
+-Co to jest klefedron
+-https://pl.wikipedia.org/wiki/Adam_S%C5%82odowy
+-https://pl.wikipedia.org/wiki/Wy%C5%BCsza_Szko%C5%82a_Oficerska_Wojsk_Obrony_Przeciwlotniczej
+-https://pl.wikipedia.org/wiki/Major
+-https://pl.wikipedia.org/wiki/Oficer_(wojsko)
+
+-Jakie związki zawiera cukier sklepowy
+
+-Pogadaj z chatemGPT o:
+	-Tłuszcze trans
+	
+-Na czym polega insulinooporność jak ktoś jest otyły
+-Jakie są obecnie znane metody odwracania procesu starzenia
+
+-Czym różni się całka nieoznaczona od oznaczonej
+
+-Co to jest enzym
+
+-Jak działa uczucie głodu, i dlaczego zjedzenie cukierków nie daje sytości mimo że podbijają poziom glukozy
+-Dlaczego się męczymy podczas wysiłku fizycznego, czy ma to związek z wyczerpaniem glikogenu w mięśniach?
+
+-Pogadaj z chatemGPT o:
+	-Izomery
+	-Możliwość magazynowania energii w izomerach
+	-Baterie izomerowe
+	
+-Czy jest jakiś teoretyczny limit ile informacji może zgromadzić ludzki mózg?
+
+-Co to jest neocotex
+-Jak wygląda regulacja testosteronu i estrogenu u mężczyzn, co wpływa na poziom jednego i drugiego
+
+-Co to jest model Eksploatacja-eksploracja
+
+-Co to jest meta-technologia
+
+	
+-Jakie są typy spółek w polsce
+
+-Normy ATEX
+-Jak dziala algorytm zip
+
+-czy netflix kożysta z aws
+-co to jest i po co się bierze fentanyl 
+- historia unleaded fuel
+- co to jest przetarg
+-Co to są płyty papierowo-fenolowe
+- jak powstaje bakelit
+-Jak powstaje tekstolit
+- jak powstaje fr4
+-Jakie są oficjalne plany rozwojowe neuralink
+-https://pl.wikipedia.org/wiki/S/PDIF
+-Jak działa S/PDIF
+-Ile kanałów ma S/PDIF
+-Czy gitlab jest open source?
+-Czy github to fork gitlaba?
+-Na czym bazowaly projekty github/gitlab
+
+-Jak działa buddyzm i na czym polega
+
+-Co to jest drogeria
+
+-Jak działa hormon Grelina
+-Jak działa zatrucie cyjankami
+-https://en.wikipedia.org/wiki/Materials_science
+-https://en.wikipedia.org/wiki/OpenMP
+-https://pl.wikipedia.org/wiki/Holding
+
+https://esezam.okno.pw.edu.pl/mod/book/view.php?id=33&chapterid=623
+https://esezam.okno.pw.edu.pl/course/index.php?categoryid=3
+-Z czago zbudowana jest tkanka
+-Jak działa nikotyna
+-Po co stosuje się nikotynę
+-Po co ludzie palą papierosy i przez to przyjmują nikotynę
+-Co to jest study drug
+-Co to jest uczucie euforii
+-Jak działa alkohol na mózg, dlaczego pojawia się uczucie euforii i odurzenie
+-Co to jest ripperdoc w cyberpunk 2077
+-Dlaczego myślenie o oszustach jest takie interesujące (pracowałem dla janusza biznesu/oszusta i teraz jak już zakończyłem dla niego pracę to dalej próbuje mnie naciągnąć, i zamiast skupić się na pracy to ciągle o tym myślę)
+-Po co jest rozrusznik serca
+-Jak działa rozrusznik serca
+-https://en.wikipedia.org/wiki/Enshittification
+-Historia kontenerów
+
+-Historia firmy manta
+-Na czym polega anoreksja
+-Jak można popaść w anoreksję
+-Co to są receptory bólowe
+-Jak działają receptory bólowe
+-Szach, szach mat: z jakiego to języka?
+-Ene due like fake, z jakiego to języka
+-co to jest weksel
+-co to jest weksel in blanco
+-Czym jest afta
+Pogadaj z chatemGPT o:
+	-SWOT
+	-PESTEL
+	-Porter
+	-BSC
+	-Miękki HR
+	-PMBOK
+	-PRINCE2
+	-Agile
+	-Scrum
+	-Lean management
+	-Six sigma
+	
+	
+
+
+-Dlaczego tak łatwo angażuję sie w dyskusję na FB/YT i w gównoburze
+-Dlaczego w harrym potterze na nauczycieli woła się profesor mimo że nie mają tytułów naukowych
+-Powiedz mi coś o latających pojazdach w harrym potterze
+-Dlaczeho w horrym portierze używają różdżek 
+-Od czego wzięła się idea domów w harrym potterze, słyszałem że w angli na uniwersytetach domy są popularne
+-Dlaczego severus snape był nazywany księciem półkrwi
+-Jaka jest historia quidicha w hogwarcie i ogólnie sportu w szkołach.
+
+-https://pl.wikipedia.org/wiki/Harry_Potter_(seria_film%C3%B3w)
+
+-Kto jest właścicielem praw do harrego pottera?
+
+-Opowiedz mi coś o panu filczu z harrego pottera
+
+-Opowiedz mi o zjawisku harry potter fan, czym są fani i jak się tworzą, jak to wygląda naukowo i od strony psychologicznej
+
+-Co to za zjawisko że po obejżeniu ciekawego filmu/serialu/gry ciąglę myślę o tym filmie/serialu/grze?
+
+-Czym jest stronnicowanie w systemach operacyjnych
+
+-Jak działa zjawisko zainteresowania danym tematem? (pod względem działania mózgu) Powiedzmy że przed obejżeniem ciekawego filmu nie miałem jakiś konkretnych zainteresowań jeśli chodzi o zgłębianie wiedzy, po obejżeniu filmu kręci mnie wszystko związane z filmem
+-Czy jak się jaram danym tematem po obejżeniu ciekawego filmu (np harry potter) to powinienem zgłebiać temat, czy dodać pytania do końca długiej kolejki rzeczy które chcę się nauczyć i wrócić do tematu po kilku tygodniach jak podjarka minie?
+-Dlaczego po obejżeniu jednego filmu stajemy się fanami (np harry potter) i wszystko z tym tematem związane nas kręci, a w przypadku innych filmów już nie (co jest tą tajemnicą? emocje? dobra fabuła? (wydaje mi się że właśnie te emocje))
+-Czym jest pamięć pomocnicza w komputerze i czym się różni od pamięci operacyjnej
+-Czy jak mam kolejkę rzeczy do nauki to powinienem je sortować według tematu by tematy miały zbliżony temat zainteresowań, czy zostawić teraz że jest totalny mix (np: kilka pytań o filmie harry potter, kilka pytań o myśleniu systemowym, kilka pytań o architekturze komputera i znowu kilka pytań o harrym potterze)
+-https://help.openai.com/en/articles/8590148-memory-faq
+-Co to jest pamięć asocjacyjna
+-Co to jest Myślenie dywergencyjne i myślenie konwergencyjne
+-Co to jest Ciekawość epistemiczna
+-Co to jest Przełączanie kontekstu poznawczego
+-Co to jest deompresja poznawcza
+-Czy są jakieś dziedziny nauki które pozwolą mi zglębiać wiedzę jak rekrutować pracowników? Znalazłem babę która miała mi stronę zmodyfikować ale ona się wgl do tego nie przyłożyła - zapłaciłem jej ale i tak muszę po niej poprawić i już nic od niej nie będę chciał więcej.
+-Powiedz mi po co niektóre firmy "podbierają" pracownikom innym firmą, np płacą im więcej by dla nich pracowali. Mniej wiecej domyślam się o co chodzi, chodzi tu o to by wykraść technologię przez podkradnięcie pracowników i większa pensja (bo taki pracownik więcej kosztuje niż taki "z ulicy")
+-https://en.wikipedia.org/wiki/Rubeus_Hagrid
+-Co to jest shell i terminal w linuxie i czym się różnią
+-Mam w pracy gościa któremu wywaliło ego od tego że jest kierownikiem. Robi tajemnice z rzeczy które według mnie nie są tajemnicą. Jak rozmawiał z marketingiem i przyszedł akurat jego pracownik to wstał i zamknął drzwi żeby pracownik "nie podsłuchiwał". Ogólnie to mam wyjebane na jego zachowanie, przychodzę do roboty tylko zrobić swoje i idę do domu, ale ciągle o tym typie myślę, co to za zjawisko?
+-Czym się różni system czasu rzeczywistego (np freeRTOS/ chibby OS) od zwykłego systemu np. linux?
+-Co to jest algorytm round robin
+-Jaki algorytm podziału czasu procesora jest wykorzystywany w linuxie?
+-Czy są systemy nie czasu rzeczywistego które mogę uruchomić na ESP32/STM32?
+-Jak steve jobs/ apple wpadł na pomysł na system z UI zamiast systemu opratego na CLI (mówi się że to on to sam wymyślił, ale coś nie chce mi się w to wierzyć)
+-Czym jest semafor w systemach operacyjnych
+-Jaka jest historia bikini
+-Jaka jest historia określenia janusza
+-Jakie są algorytmy kontroli silnika w falownikach/sterownikach ESC
+-Czym jest zakleszczenie w systemach operacyjnych
+-Co myślisz o stwierdzeniu że wszystko w linuxie jest plikiem, i jak to wygląda w windowsie
+-Co to jest wiedza skrystalyzowana i wiedza encyklopedyczna
+-Co to jest wiki rabbit hole
+-Czym się różni materiał rozrywkowy od materiału edukacyjnego
+-Co to jest wiedza deklaratywna
+-Co to są pytania metapoznawcze
+-Jaka jest historia tych wózków dla grubasów w walmarcie?
+-Po chuj są te telewizory z kamerami patrzącymi na klientów w walmarcie?
+-Co to znaczy gra komputeorwa triple A
+-Dlaczego niektórym facetom podobają się grube laski?
+-Dlaczego w menadżeże zadań jest zakładka użytkownicy jak raczej windows jest systemem dla jednego użytkownika (na systemie jest jeden użytkownik jednocześnie)
+Pogadaj z chatemGPT:
+	-Dlaczego niektórymi filmami się tak jaram?
+		np teraz dużo myślę o harrym potterze, wcześniej jarałem się cyberpunkiem a jeszcze wcześniej SVTFOE i final space. Myślałem że tu chodzi o emocje miłości bo w przypadku HP jarałem się filmami gdzie do fabuły wprowadzono zakochiwanie się (pierwsze pocałunki, dziewczyny itp), ale w przypadku titaninca wątek miłosny wcale mnie nie jarał. Może to tęsknota do tego że jako nastolatek wgl się związkami nie interesowałem, albo tęstkonta do tego że nie mam dziewczyny i chodź mam dużą wiedzę o związkach to mam małe doświadczenie (oficialnie nie miałem dziewczyny mimo że przespałem się z kilkoma, ale to były relacje raczej na jedną noc) O co może chodzić, może jest jakaś cecha wspólna?
+-Kto przygotowuje posiłki w hogwarcie? W filmie wygląda na to że są one wytwarzane przez magię, ale jak to wygląda w książce, jest to tam wytłumaczone?
+-Opowiedz mi trochę o logo compact disc, czy trzeba mieć na nie licencję, czy to tylko oznaka dla klienta że płyta jest zgodna ze standardem compact disc.
+-Kto bardziej przykłada znaczenie do wyglądu osobistego, mężczyźni czy kobiety?
+-Do czego służy manekin pielęgnacyjny?
+-Czy zaklęcie petrificus totalus w harrym potterze to to samo co spetryfikowanie?
+-O co chodzi z kontrowersjami JK rowling?
+Pogadaj z chatem GPT o:
+	-Układzie dopaminowym
+	
+-Czasami oglądam TV (bardzo rzadko jak np czekam aż mi się woda zagotuje) i bardziej kręci mnie przełączanie kanałów niż oglądanie programu, jaki to ma związek z układem dopaminowym, objaśnij mi to zjawisko.
+-Dlaczego współcześnie nasz mózg działa przeciwko nam a nie pomaga? (np kręcimy się tik-tokiem zamiast czymś wartościowym, jemy fastfoody i junk foody zamiast zdrową żywność).
+-Czy lepiej przebierać się w piżame czy lepiej spać w samych gaciach i koszulce?
+-https://pl.wikipedia.org/wiki/Franczyza_(media)
+-https://pl.wikipedia.org/wiki/Opera_kosmiczna
+-https://pl.wikipedia.org/wiki/Sequel
+-https://pl.wikipedia.org/wiki/George_Lucas
+-https://pl.wikipedia.org/wiki/Ghostwriter
+-https://pl.wikipedia.org/wiki/Nagroda_Akademii_Filmowej
+-https://pl.wikipedia.org/wiki/Cartoon_Network
+-https://pl.wikipedia.org/wiki/480i
+-https://pl.wikipedia.org/wiki/1080i
+-https://pl.wikipedia.org/wiki/Przeplot
+-https://pl.wikipedia.org/wiki/Disney_XD_(Polska)
+-https://pl.wikipedia.org/wiki/Disney_Channel
+-https://pl.wikipedia.org/wiki/Disney%2B
+-https://pl.wikipedia.org/wiki/Media_strumieniowe
+-Opowiedz mi coś o przemyśle rozrywkowym
+-Jaka jest psychologia konsumenta przemysłu rozrywkowego skoro rozrywka (oglądanie filmów granie w gry itp) nie generuje dóbr
+-Za pomocą AI mogę łatwo wygenerować podcast na dany temat: chatGPT scenariusz i TTS głos (np eleven labs), a co z filmami? Jakbym chciał film na yt zrobić to animacje/visuale/grafiki muszę animować/dobierać dalej sam. Można to jakoś zautomatyzować?
+-Daj mi przykład prokrastynacji w przypadku self improvementu bo coache często przed tym przestrzegają
+-Dlaczego przy niektórych profesjonalnych programach wyskakuje przy załączeniu programu najpierw takie charakterystyczne okienko (np w altiumie) z logiem programu bez obramowania a dopiero potem otwiera się program, zamiast od razu otworzyć program
+-Dlaczego kiedyś stosowano kabiny prysznicowe z plastiku a teraz buduje się je ze szkła? Czy to po prostu moda czy co?
+-Co to jest agencja grantowa?
+-Jak dziala DARPA?
+-Skąd DARPA bierze pieniądze?
+-Czy w polsce jest odpowienik DARPA?
+-W przypadku wojny jakie są sposoby uniknięcia mobilizacji (ucieczka z kraju i zabezpieczenie majatku)
+-Dlaczego zerwano z parytetem złota?
+-Czy są jakieś teorie dlaczego tworzy się świadomość?
+-Czy sa możliwe podróże w czasie?
+-Opowiedz mi coś o firmie Kruger&Matz
+-Co to jest czynsz
+-Jaka jest różnica pomiędzy czynsz a opłaty?
+-Czym się różni biblia od pisma świętego?
+-Czy biblia naprawdę gnoio bogatych tylko dlatego że są bogaci a biednych stawia na piedestale tylko dlatego że są biedni, czy to tylko wymyśł księży?
+-Co to jest PIT-8C
+-co to są obligacje
+-Co to są opcje w tradingu
+-Co to są kontrakty terminowe w tradingu
+-Co to są certyfikaty strukturyzowane w tradingu
+-Co to jest dźwignia finansowa?
+-Co to jest IKE?
+-Na czym polega emisja nowych akcji?
+-Co to jest insider trading?
+-Co to jest spekulacja w tradingu?
+-To logiczne że w tradingu zarabia się na wzrostach, ale czy można też zarabiać na stratach - załóżmy że mam spółkę która upada i chcialbym na tym zarobić
+-Kto to jest broker?
+-Co to jest hedging w tradingu?
+-Co to jest spirala zadłużenia?
+-Co to znaczy że startup goes public?
+-Opowiedz mi o wojnie w awganistanie
+-https://pl.wikipedia.org/wiki/Karczma
+-https://pl.wikipedia.org/wiki/Jabol
+-Opowiedz mi coś o zjawisku brainrot, i dlaczego platformy takie jak yt robią wszystko byś zaczął tzw binge watching zamiast kontynuować swój temat który cię interesował (postawianie filmów wgl nie związanych z tematem oglądania)

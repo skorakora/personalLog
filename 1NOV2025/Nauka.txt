@@ -1,36 +1,3 @@
--NAKUA 2
--Nauka 3 3:39
--NAUKA 4
--NAUKA 5
--NAUKA 6
--NAUKA 7
--NAUKA 8
--NAUKA 9  25:02
--NAUKA 10
--NAUKA 11
--NAUKA 12
--NAUKA 13
--NAUKA 14
--NAUKA 15
--NAUKA 16
--NAUKA 17
--NAUKA 18
--NAUKA 19
--NAUKA 20
--NAUKA 21
--NAUKA 22
--NAUKA 23
--NAUKA 24
--NAUKA 25
--NAUKA 26
--NAUKA 27
--NAUKA 28
--NAUKA 29
--NAUKA 30
--NAUKA 31
--NAUKA 32
-
--Czym się różni router od switcha
 -Pogadać z chatemGPT o tym co mogą dać studia z zarządzania
 -Co to jest umowa o dzieło
 -Co to jest umowa o zlecenie
@@ -203,8 +170,6 @@
 
 -Co to jest meta-technologia
 
--Obejżyj:
-	-Nauka-Matchematics ->Calculus
 	
 -Jakie są typy spółek w polsce
 
@@ -256,3 +221,10 @@ https://esezam.okno.pw.edu.pl/course/index.php?categoryid=3
 -Historia firmy manta
 -Na czym polega anoreksja
 -Jak można popaść w anoreksję
+-Co to są receptory bólowe
+-Jak działają receptory bólowe
+-Szach, szach mat: z jakiego to języka?
+-Ene due like fake, z jakiego to języka
+-co to jest weksel
+-co to jest weksel in blanco
+-Czym jest afta

@@ -1,0 +1,9 @@
+Co każdą niedziele dodawane są do listy aktywnych.
+Co każdą niedziele obiekty nieistotne z listy aktywnych są przenoszone do listy DW.
+Co każdą niedziele obiekty nieistotne z listy DW zostają usunięte
+
+LISTA AKTYWNYCH:
+
+
+
+LISTA DW:

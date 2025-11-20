@@ -1,0 +1,4 @@
+-Wynieść głośniki z auta
+-Naprawić enkodowanie serwera jellyfin
+-Zrobić research jak podpierdolić tego janusza
+-Ogarnąć menedżer haseł pod domeną password.skorakorasv.pl

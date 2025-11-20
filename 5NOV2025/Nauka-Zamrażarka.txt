@@ -1,0 +1,31 @@
+Co każdą niedziele dodawane są do listy aktywnych.
+Co każdą niedziele obiekty nieistotne z listy aktywnych są przenoszone do listy DW.
+Co każdą niedziele obiekty nieistotne z listy DW zostają usunięte
+
+LISTA AKTYWNYCH:
+	-Fizyka i matematyka
+		-Probability_amplitude
+		-Many-body_problem
+		-Hartree–Fock method (Electronic structure methods)
+		-Slater_determinant
+		-Permanent_(mathematics)
+		-Theory_of_relativity
+		-Klein–Gordon equation
+		-Pauli_equation
+		-Special_relativity
+		-Dirac_equation
+		-Born_rule
+		-Schrödinger equation
+		-Wave_equation
+		-Wave–particle duality
+		-Interpretations_of_quantum_mechanics
+		-Fourier_transform
+		-Position_and_momentum_spaces (Quantum mechanics)
+		-Superposition_principle
+		-Hilbert_space
+		-Copenhagen_interpretation
+		-Matter wave (Foundational quantum physics)
+
+
+
+LISTA DW:
