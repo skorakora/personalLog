@@ -1,0 +1,46 @@
+-Zrobić research jak podpierdolić tego janusza
+	-Czekać na ozew z PIP -> Nie wpisałem danych pracodawcy więc pewnie będą dzwonić
+	-Jak PIP zrobi kontrole to podpierdolić go do sądu pracy w należne 1000PLN
+
+-Migracja serwera
+	-Zainstalować audiobookshelf
+	-Zainstalować webmin
+		-Przenieść reguły firewall
+	-Przenieść strony internetowe
+	-Przenieść muzykę
+	-Przenieść audiobooki
+	-Zainstalować nextcloud
+
+-Anulować subskrybcję serwera VPS
+	
+-Ogarnąć serwer e-mail na mail.skorakorasv.pl |4h|
+	-Ogarnąć jak działa szyfrowanie
+-Ogarnąć menedżer haseł pod domeną password.skorakorasv.pl
+-Zrobić backupa FreeOTP
+-Założyć bloga uczącego podrywania
+	-Znaleźć i wykupić domenę
+-Przenieść system rejestrowania bloków na selfforge.app
+	-Pogadać z chatemGPT o PHP
+	-Pogadać z chatemGPT o integracji PHP z HTML
+	-Zrobić przykładowy projekt PHP
+	-Pogadać z chatemGPT o integracji projektu z bazami danych
+	-Zrobić przykładowy projekt wykorzystujący bazę danych
+	-Zrobić system logowania i rejestracji
+	...
+-Zrobić panel przycisków do rejestrowania myśli rozpraszających 	
+-Założyć konto maklerskie w ING
+-Ustawić alerty mailowe z RAID
+
+
+NAUKA:
+-Jak działa postfix
+-Jak tworzy się użytkowników w postfix
+-Jak tworzy sie użytkownika noreply w postfix
+-Jak działa dovecot
+-Jak tworzy się skrzynkę w dovecot
+-Jakie są webowe klienty do poczty mail jakie mogę hostować na mail.skorakorasv.pl
+
+
+TASKI NISKIEGO PRIORYTETU:
+-postawic pterodactyl na dockerze
+-postawić serwer MC

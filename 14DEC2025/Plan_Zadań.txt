@@ -1,0 +1,29 @@
+1. Studia
+2. Praca nad firmą
+3. Nauka
+4. Studia 
+5. Praca nad firmą
+6. Studia
+7. Nauka
+8. Rzeczy prywatne
+9. Studia
+10. Praca nad firmą
+11. Migracja serwera
+12. Studia 
+13. Praca nad firmą
+14. Studia
+15. Inne
+	-Sortowanie muzyki
+		-Polubić wszystkie utwory
+		-Zgrać muzykę
+		-Stworzyć playlisty
+		
+16. Rzeczy prywatne
+17. Sortownie i delegowanie zadań w firmie
+
+
+POCZEKALNIA
+Rozwijanie wiedzy o budowaniu mięśni
+Rozwijanie wiedzy o nagrywaniu vlogów
+Rozwijanie umiejętności podrywu
+

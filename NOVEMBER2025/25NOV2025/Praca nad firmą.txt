@@ -1,0 +1,35 @@
+PLAN ZADAŃ:
+-Przygotować profil firmy
+-Postawić cockpit
+-Postawić webmin
+-Postawić portainer
+-Ogarnąć program do haseł/ ogarnąć hasła
+	-Zainstalować na serwerze pod domeną password.danzosystems.com teampass ->Jeśli teampass się nie sprawdzi spróbować jeszcze z bitwarden, passbolt
+	-Przenieść hasła do programu
+	-Utworzyć konto maciejowi
+	-Usunąć hasła z kanału do haseł
+	
+-Usunąć hasła i zbędne rzeczy z kanału przemyślenia
+-Ogarnąć muzykę
+-Zmienić siedzibę firmy
+-Ogarnąć kartę na nowy adres
+-Napisz do kół naukowych że szukasz ludzi
+-Poprawić post na elektrodzie z chatemGPT
+-Wstawić post na elektrodzie
+-Sprawdzić wiadomość do firm/ kilentów
+-Przygotować dokuement opisujący WM100
+-Przygotować dokuement opisujący WMD200
+-Przygotować dokuement opisujący FM25060
+-Przygotować wzór pisania postu
+-Na podstawie dokumentów zlecić przygotowanie postów
+-Zrobić research na temat instagrama (jak go prowadzić itp)
+
+
+
+
+
+
+OCZEKUJE:
+-Czekam na kartę z banku firmową
+
+

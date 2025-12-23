@@ -1,0 +1,15 @@
+-Strona ma być osobistą reklamą, moim podsumowaniem oraz CV
+
+Co musi zawierać:
+	Karta "education"
+	Karta "employement history"
+	Karta "projects"
+		"software projects"
+		"hardware projects"
+
+Sekcja "About me"
+
+
+NAUKA:
+-
+-

@@ -1,0 +1,16 @@
+-Zrobić research jak podpierdolić tego janusza
+	-Czekać na ozew z PIP -> Nie wpisałem danych pracodawcy więc pewnie będą dzwonić
+	-Jak PIP zrobi kontrole to podpierdolić go do sądu pracy w należne 1000PLN
+-Ogarnąć menedżer haseł pod domeną password.skorakorasv.pl
+-Zrobić backupa FreeOTP
+-Założyć bloga uczącego podrywania
+	-Znaleźć i wykupić domenę
+-Przenieść system rejestrowania bloków na selfforge.app
+	-Pogadać z chatemGPT o PHP
+	-Pogadać z chatemGPT o integracji PHP z HTML
+	-Zrobić przykładowy projekt PHP
+	-Pogadać z chatemGPT o integracji projektu z bazami danych
+	-Zrobić przykładowy projekt wykorzystujący bazę danych
+	-Zrobić system logowania i rejestracji
+	...
+-Zrobić panel przycisków do rejestrowania myśli rozpraszających 	

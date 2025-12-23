@@ -1,0 +1,35 @@
+PLAN ZADAŃ:
+-Założyć cloudflare na pocztę DS
+-Ogarnąc cesję domeny
+-Ogarnąć stronę internetową na VPS
+-Przygotować profil firmy
+-Ogarnąć program do haseł/ ogarnąć hasła
+	-Zainstalować na serwerze pod domeną password.danzosystems.com teampass ->Jeśli teampass się nie sprawdzi spróbować jeszcze z bitwarden, passbolt
+	-Przenieść hasła do programu
+	-Utworzyć konto maciejowi
+	-Usunąć hasła z kanału do haseł
+	
+-Usunąć hasła i zbędne rzeczy z kanału przemyślenia
+-Napisz do kół naukowych że szukasz ludzi
+-Poprawić post na elektrodzie z chatemGPT
+-Wstawić post na elektrodzie
+-Sprawdzić wiadomość do firm/ kilentów
+-Przygotować dokuement opisujący WM100
+-Przygotować dokuement opisujący WMD200
+-Przygotować dokuement opisujący FM25060
+-Przygotować wzór pisania postu
+-Na podstawie dokumentów zlecić przygotowanie postów
+-Zrobić research na temat instagrama (jak go prowadzić itp)
+-Ogarnąć muzykę
+
+
+
+
+
+OCZEKUJE:
+-Maciej ma dodać mnie do znajomych a ja go dodać do strony
+-Czekam na kartę z banku firmową
+-Czekać na feedback mruczącego w sprawie dodania kary do umowy
+-Czekam na stronę
+-Czekam na założenie instagrama danzo
+
