@@ -1,13 +1,31 @@
--Strona ma być osobistą reklamą, moim podsumowaniem oraz CV
+-Strona ma być osobistą reklamą pod przyszłe usługi freelance, moim podsumowaniem oraz CV
 
-Co musi zawierać:
-	Karta "education"
-	Karta "employement history"
+Co musi zawierać w menu:
 	Karta "projects"
 		"software projects"
 		"hardware projects"
 
+	Karta "education"
+	Karta "employement history"
+	Karta "entrepreneurship"
+		"Danzo Systems"
+
+
 Sekcja "About me"
+	"... also known as skorakora ..."
+Sekcja "Services"
+Sekcja "My skills"
+Sekcja "Tech stack & tools"
+Sekcja "My porfolio"
+	-Coś o falowniku
+	-Modelowaniu WMD200
+	-Personalnym spotify
+	
+
+
+Sekcja "Interests"
+
+
 
 
 NAUKA:
