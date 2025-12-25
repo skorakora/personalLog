@@ -8,28 +8,30 @@ WASTED TIME = 4h
 
 
 
-BLOK1 12-13 DZIAŁANIE:
--Studia -12
+BLOK1 15-16 DZIAŁANIE:
+-Studia -14
 
-BLOK2 13-14 DZIAŁANIE:
--Studia -12
 
-BLOK3 19-20 NAUKA:
+BLOK2 16-17 DZIAŁANIE:
+-Studia -14
+
+
+BLOK3 17-18 NAUKA:
 -Mealprep
 -Nauka języków 20min
 -Powtarzanie anki 20min
 
 
-BLOK4  20-21 DZIAŁANIE:
--Praca nad firmą -13
+BLOK4  18-19 DZIAŁANIE:
+-Inne -15
 
 
 
-BLOK5 21-22 DZIAŁANIE:
--Praca nad firmą -13
+BLOK5 19-20 DZIAŁANIE:
+-Inne -15
 
 
-BLOK6 22-23 NAUKA:
+BLOK6 20-21 NAUKA:
 -ChatGPT
 
 
