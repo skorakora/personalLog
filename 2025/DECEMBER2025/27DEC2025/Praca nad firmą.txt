@@ -1,0 +1,35 @@
+-Przygotować plan rozwojowo zarobkowy
+-Ogarnąć kartę na nowy adres
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WSTRZYMANE
+-Postawić portainer docker.danzosystems.com
+-Postawić pocztę
+    -postawić postfix
+    -postawić dovecot
+    -postawić klienta poczty pod mail.danzosystems.com
+    -kontakt@danzosystems.com
+    -zarzad@danzosystems.com
+    -noreply@danzosystems.com
+	
+-Ogarnąć program do haseł/ ogarnąć hasła
+    -Zainstalować na serwerze pod domeną password.danzosystems.com teampass ->Jeśli teampass się nie sprawdzi spróbować jeszcze z bitwarden, passbolt
+    -Przenieść hasła do programu
+    -Utworzyć konto maciejowi
+    -Usunąć hasła z kanału do haseł
+	
+-Usunąć hasła i zbędne rzeczy z kanału przemyślenia
+-Napisz do kół naukowych że szukasz ludzi

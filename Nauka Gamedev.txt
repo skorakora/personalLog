@@ -1,0 +1,16 @@
+-Pobierz unreal engine
+-Zapoznaj się z UI unreal engine
+
+
+
+
+
+
+
+NAUKA:
+
+-Czy outlast był zrobiony w unreal engine?
+-Jak działa nanite w unreal engine
+-Powiedz mi coś o systemach blueprintów w unreal engine
+-Czy mogę zrobić blueprint w C++ który potem może być używany w zwykłych blueprintach (powiedzmy loader scenerii napisany w C++ a potem go importuje do projektu i interakcje są na poziomie blueprintów a nie C++)
+

@@ -1,0 +1,52 @@
+-Ogarnąć kartę na nowy adres
+
+-Przeczytać https://multimed.org/student/elearning/lekcje/temat3.htm
+-Dowiedzieć się jakie są fora audio i HI-FI, znaleźć też fora car audio
+-Wstawić post na elektrodzie o wpływie częstotliwości kluczowania na zniekształcenia THD+N
+	-Przygotować model do symulacji
+	-Wykonać symulacje
+	-Napisać raport
+	-Zawrzeć tam koniecznie info z zapytaniem o kolejny temat
+-Wstawić post na elektrodzie o wpływie PFFB na zniekształcenia THD+N
+	-Przygotować model do symulacji
+	-Wykonać symulacje
+	-Napisać raport
+-Zrób research w sprawie posta o stopniu mocy lab.Gruppen FP10000Q
+-Wstaw post na elektrodzie o analizie stopnia mocy we wzmacniaczu lab.Gruppen FP10000Q
+-Zmienić siedzibę na biuro wirtualne
+
+Zadania po 2h
+-Kontynuować pracę nad stroną
+-Wykonaj zadanie
+-Kontynuować pracę nad modułem WMD200
+-Wykonaj zadanie
+-Ćwicz modelowanie CAD w FreeCAD
+	-Wymodeluj za pomocą gięcia blachy prostą obudowę z wentylatorem
+-Wykonaj zadanie
+
+
+
+
+
+
+
+
+
+WSTRZYMANE
+-Postawić portainer docker.danzosystems.com
+-Postawić pocztę
+    -postawić postfix
+    -postawić dovecot
+    -postawić klienta poczty pod mail.danzosystems.com
+    -kontakt@danzosystems.com
+    -zarzad@danzosystems.com
+    -noreply@danzosystems.com
+	
+-Ogarnąć program do haseł/ ogarnąć hasła
+    -Zainstalować na serwerze pod domeną password.danzosystems.com teampass ->Jeśli teampass się nie sprawdzi spróbować jeszcze z bitwarden, passbolt
+    -Przenieść hasła do programu
+    -Utworzyć konto maciejowi
+    -Usunąć hasła z kanału do haseł
+	
+-Usunąć hasła i zbędne rzeczy z kanału przemyślenia
+-Napisz do kół naukowych że szukasz ludzi

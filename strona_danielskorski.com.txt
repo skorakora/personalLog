@@ -6,6 +6,7 @@ Co musi zawierać w menu:
 		"hardware projects"
 
 	Karta "education"
+	Karta "Certificates"
 	Karta "employement history"
 	Karta "entrepreneurship"
 		"Danzo Systems"

@@ -1,0 +1,319 @@
+-
+
+-https://pl.wikipedia.org/wiki/Wy%C5%BCsza_Szko%C5%82a_Oficerska_Wojsk_Obrony_Przeciwlotniczej
+
+-https://pl.wikipedia.org/wiki/Major
+
+-https://pl.wikipedia.org/wiki/Oficer_(wojsko)
+
+-Jakie są typy spółek w polsce
+-https://pl.wikipedia.org/wiki/Holding
+
+co to jest przetarg
+
+-Powiedz mi po co niektóre firmy "podbierają" pracownikom innym firmą, np płacą im więcej by dla nich pracowali. Mniej wiecej domyślam się o co chodzi, chodzi tu o to by wykraść technologię przez podkradnięcie pracowników i większa pensja (bo taki pracownik więcej kosztuje niż taki "z ulicy")
+-Czy są jakieś dziedziny nauki które pozwolą mi zglębiać wiedzę jak rekrutować pracowników? Znalazłem babę która miała mi stronę zmodyfikować ale ona się wgl do tego nie przyłożyła - zapłaciłem jej ale i tak muszę po niej poprawić i już nic od niej nie będę chciał więcej.
+
+-Jakie są oficjalne plany rozwojowe neuralink
+-Czy jest jakiś teoretyczny limit ile informacji może zgromadzić ludzki mózg?
+-Co to jest neocotex
+
+-Co to jest pamięć asocjacyjna
+-Co to jest Myślenie dywergencyjne i myślenie konwergencyjne
+-Co to jest Ciekawość epistemiczna
+-Co to jest Przełączanie kontekstu poznawczego
+-Co to jest deompresja poznawcza
+-https://help.openai.com/en/articles/8590148-memory-faq
+
+-Dlaczego myślenie o oszustach jest takie interesujące (pracowałem dla janusza biznesu/oszusta i teraz jak już zakończyłem dla niego pracę to dalej próbuje mnie naciągnąć, i zamiast skupić się na pracy to ciągle o tym myślę)
+-Dlaczego tak łatwo angażuję sie w dyskusję na FB/YT i w gównoburze
+-Mam w pracy gościa któremu wywaliło ego od tego że jest kierownikiem. Robi tajemnice z rzeczy które według mnie nie są tajemnicą. Jak rozmawiał z marketingiem i przyszedł akurat jego pracownik to wstał i zamknął drzwi żeby pracownik "nie podsłuchiwał". Ogólnie to mam wyjebane na jego zachowanie, przychodzę do roboty tylko zrobić swoje i idę do domu, ale ciągle o tym typie myślę, co to za zjawisko?
+
+-Co to za zjawisko że po obejżeniu ciekawego filmu/serialu/gry ciąglę myślę o tym filmie/serialu/grze?
+-Jak działa zjawisko zainteresowania danym tematem? (pod względem działania mózgu) Powiedzmy że przed obejżeniem ciekawego filmu nie miałem jakiś konkretnych zainteresowań jeśli chodzi o zgłębianie wiedzy, po obejżeniu filmu kręci mnie wszystko związane z filmem
+-Czy jak się jaram danym tematem po obejżeniu ciekawego filmu (np harry potter) to powinienem zgłebiać temat, czy dodać pytania do końca długiej kolejki rzeczy które chcę się nauczyć i wrócić do tematu po kilku tygodniach jak podjarka minie?
+-Dlaczego po obejżeniu jednego filmu stajemy się fanami (np harry potter) i wszystko z tym tematem związane nas kręci, a w przypadku innych filmów już nie (co jest tą tajemnicą? emocje? dobra fabuła? (wydaje mi się że właśnie te emocje))
+-Opowiedz mi o zjawisku harry potter fan, czym są fani i jak się tworzą, jak to wygląda naukowo i od strony psychologicznej
+
+-Co to jest uczucie euforii
+-Jak działa alkohol na mózg, dlaczego pojawia się uczucie euforii i odurzenie
+-Co to jest study drug
+
+-Pogadaj z chatemGPT o:
+-Testosteron
+-Jak wygląda regulacja testosteronu i estrogenu u mężczyzn, co wpływa na poziom jednego i drugiego
+-Jak działa hormon Grelina
+
+-Jak działa uczucie głodu, i dlaczego zjedzenie cukierków nie daje sytości mimo że podbijają poziom glukozy
+-Na czym polega insulinooporność jak ktoś jest otyły
+-Jakie są leki obniżające apetyt
+
+-Na czym polega anoreksja
+-Jak można popaść w anoreksję
+
+-Jakie związki zawiera cukier sklepowy
+-Pogadaj z chatemGPT o:
+-Tłuszcze trans
+-Co to jest enzym
+-Jak działa zatrucie cyjankami
+
+-Czym różni się całka nieoznaczona od oznaczonej
+
+-Pogadaj z chatemGPT o:
+-Izomery
+-Możliwość magazynowania energii w izomerach
+-Baterie izomerowe
+
+-https://en.wikipedia.org/wiki/Materials_science
+
+-Jakie są przykładowe implementacje Internet of things
+
+-RT-LINUX
+-Embeded linux
+-Czym się różni system czasu rzeczywistego (np freeRTOS/ chibby OS) od zwykłego systemu np. linux?
+-Czy są systemy nie czasu rzeczywistego które mogę uruchomić na ESP32/STM32?
+
+-Co to jest shell i terminal w linuxie i czym się różnią
+-Czym jest stronnicowanie w systemach operacyjnych
+-Co to jest algorytm round robin
+-Jaki algorytm podziału czasu procesora jest wykorzystywany w linuxie?
+-Jak dziala algorytm zip
+
+-https://en.wikipedia.org/wiki/OpenMP
+
+-Czym jest pamięć pomocnicza w komputerze i czym się różni od pamięci operacyjnej
+
+-https://pl.wikipedia.org/wiki/S/PDIF
+
+-Jak działa S/PDIF
+-Ile kanałów ma S/PDIF
+
+
+
+
+
+-Czym jest semafor w systemach operacyjnych
+-Jaka jest historia bikini
+-Jaka jest historia określenia janusza
+-Jakie są algorytmy kontroli silnika w falownikach/sterownikach ESC
+-Czym jest zakleszczenie w systemach operacyjnych
+-Co myślisz o stwierdzeniu że wszystko w linuxie jest plikiem, i jak to wygląda w windowsie
+-Co to jest wiedza skrystalyzowana i wiedza encyklopedyczna
+-Co to jest wiki rabbit hole
+-Czym się różni materiał rozrywkowy od materiału edukacyjnego
+-Co to jest wiedza deklaratywna
+-Co to są pytania metapoznawcze
+-Jaka jest historia tych wózków dla grubasów w walmarcie?
+-Po chuj są te telewizory z kamerami patrzącymi na klientów w walmarcie?
+-Co to znaczy gra komputeorwa triple A
+-Dlaczego niektórym facetom podobają się grube laski?
+-Dlaczego w menadżeże zadań jest zakładka użytkownicy jak raczej windows jest systemem dla jednego użytkownika (na systemie jest jeden użytkownik jednocześnie)
+Pogadaj z chatemGPT:
+	-Dlaczego niektórymi filmami się tak jaram?
+		np teraz dużo myślę o harrym potterze, wcześniej jarałem się cyberpunkiem a jeszcze wcześniej SVTFOE i final space. Myślałem że tu chodzi o emocje miłości bo w przypadku HP jarałem się filmami gdzie do fabuły wprowadzono zakochiwanie się (pierwsze pocałunki, dziewczyny itp), ale w przypadku titaninca wątek miłosny wcale mnie nie jarał. Może to tęsknota do tego że jako nastolatek wgl się związkami nie interesowałem, albo tęstkonta do tego że nie mam dziewczyny i chodź mam dużą wiedzę o związkach to mam małe doświadczenie (oficialnie nie miałem dziewczyny mimo że przespałem się z kilkoma, ale to były relacje raczej na jedną noc) O co może chodzić, może jest jakaś cecha wspólna?
+-Kto przygotowuje posiłki w hogwarcie? W filmie wygląda na to że są one wytwarzane przez magię, ale jak to wygląda w książce, jest to tam wytłumaczone?
+-Opowiedz mi trochę o logo compact disc, czy trzeba mieć na nie licencję, czy to tylko oznaka dla klienta że płyta jest zgodna ze standardem compact disc.
+-Kto bardziej przykłada znaczenie do wyglądu osobistego, mężczyźni czy kobiety?
+-Do czego służy manekin pielęgnacyjny?
+-Czy zaklęcie petrificus totalus w harrym potterze to to samo co spetryfikowanie?
+-O co chodzi z kontrowersjami JK rowling?
+Pogadaj z chatem GPT o:
+	-Układzie dopaminowym
+	
+-Czasami oglądam TV (bardzo rzadko jak np czekam aż mi się woda zagotuje) i bardziej kręci mnie przełączanie kanałów niż oglądanie programu, jaki to ma związek z układem dopaminowym, objaśnij mi to zjawisko.
+-Dlaczego współcześnie nasz mózg działa przeciwko nam a nie pomaga? (np kręcimy się tik-tokiem zamiast czymś wartościowym, jemy fastfoody i junk foody zamiast zdrową żywność).
+-Czy lepiej przebierać się w piżame czy lepiej spać w samych gaciach i koszulce?
+-https://pl.wikipedia.org/wiki/Franczyza_(media)
+-https://pl.wikipedia.org/wiki/Opera_kosmiczna
+-https://pl.wikipedia.org/wiki/Sequel
+-https://pl.wikipedia.org/wiki/George_Lucas
+-https://pl.wikipedia.org/wiki/Ghostwriter
+-https://pl.wikipedia.org/wiki/Nagroda_Akademii_Filmowej
+-https://pl.wikipedia.org/wiki/Cartoon_Network
+-https://pl.wikipedia.org/wiki/480i
+-https://pl.wikipedia.org/wiki/1080i
+-https://pl.wikipedia.org/wiki/Przeplot
+-https://pl.wikipedia.org/wiki/Disney_XD_(Polska)
+-https://pl.wikipedia.org/wiki/Disney_Channel
+-https://pl.wikipedia.org/wiki/Disney%2B
+-https://pl.wikipedia.org/wiki/Media_strumieniowe
+-Opowiedz mi coś o przemyśle rozrywkowym
+-Jaka jest psychologia konsumenta przemysłu rozrywkowego skoro rozrywka (oglądanie filmów granie w gry itp) nie generuje dóbr
+-Za pomocą AI mogę łatwo wygenerować podcast na dany temat: chatGPT scenariusz i TTS głos (np eleven labs), a co z filmami? Jakbym chciał film na yt zrobić to animacje/visuale/grafiki muszę animować/dobierać dalej sam. Można to jakoś zautomatyzować?
+-Daj mi przykład prokrastynacji w przypadku self improvementu bo coache często przed tym przestrzegają
+-Dlaczego przy niektórych profesjonalnych programach wyskakuje przy załączeniu programu najpierw takie charakterystyczne okienko (np w altiumie) z logiem programu bez obramowania a dopiero potem otwiera się program, zamiast od razu otworzyć program
+-Dlaczego kiedyś stosowano kabiny prysznicowe z plastiku a teraz buduje się je ze szkła? Czy to po prostu moda czy co?
+-Co to jest agencja grantowa?
+-Jak dziala DARPA?
+-Skąd DARPA bierze pieniądze?
+-Czy w polsce jest odpowienik DARPA?
+-W przypadku wojny jakie są sposoby uniknięcia mobilizacji (ucieczka z kraju i zabezpieczenie majatku)
+-Dlaczego zerwano z parytetem złota?
+-Czy są jakieś teorie dlaczego tworzy się świadomość?
+-Czy sa możliwe podróże w czasie?
+-Opowiedz mi coś o firmie Kruger&Matz
+-Co to jest czynsz
+-Jaka jest różnica pomiędzy czynsz a opłaty?
+-Czym się różni biblia od pisma świętego?
+-Czy biblia naprawdę gnoi bogatych tylko dlatego że są bogaci a biednych stawia na piedestale tylko dlatego że są biedni, czy to tylko wymyśł księży?
+-Co to jest PIT-8C
+-co to są obligacje
+-Co to są opcje w tradingu
+-Co to są kontrakty terminowe w tradingu
+-Co to są certyfikaty strukturyzowane w tradingu
+-Co to jest dźwignia finansowa?
+-Co to jest IKE?
+-Na czym polega emisja nowych akcji?
+-Co to jest insider trading?
+-Co to jest spekulacja w tradingu?
+-To logiczne że w tradingu zarabia się na wzrostach, ale czy można też zarabiać na stratach - załóżmy że mam spółkę która upada i chcialbym na tym zarobić
+-Kto to jest broker?
+-Co to jest hedging w tradingu?
+-Co to jest spirala zadłużenia?
+-Co to znaczy że startup goes public?
+-Opowiedz mi o wojnie w awganistanie
+-https://pl.wikipedia.org/wiki/Karczma
+-https://pl.wikipedia.org/wiki/Jabol
+-Opowiedz mi coś o zjawisku brainrot, i dlaczego platformy takie jak yt robią wszystko byś zaczął tzw binge watching zamiast kontynuować swój temat który cię interesował (postawianie filmów wgl nie związanych z tematem oglądania)
+-https://pl.wikipedia.org/wiki/Choroba_Picka
+-https://pl.wikipedia.org/wiki/Choroby_neurodegeneracyjne
+-Czy podczas nauki tworzą się nowe neurony czy liczba neuronów jest stała aż do śmierci?
+-Czy neurony samoistnie umierają i są zastępowane nowymi czy raczej mamy te same aż do śmierci?
+-https://pl.wikipedia.org/wiki/Pizza
+-https://pl.wikipedia.org/wiki/Kuchnia_w%C5%82oska
+-https://en.wikipedia.org/wiki/Sexual_capital
+-Opowiedz mi coś o procesie numer 1 w linuxie
+-Jak elon musk bierze pieniądze - słyszałem że jak elon musk potrzebuje pieniędzy to dzwoni do banku o pożyczkę wzamian za akcje tesli (czy jakoś tak) ponoć wychodzi to taniej (niższy podatek) niż normalne sprzedanie akcji 
+-Czym zajmuje się hermes w futuramie i po co go zatrudnił proffesor? 
+-Jaką rolę w planet express w futuramie pełni proffesor i hermes
+-Jak zacząłem badać zachowania dziewczyn żeby zbadać który styl (smart casual czy casual) pozytywnie wpływa na skalę SMV to odkryłem inne zjawisko tzw "faceta influencera". Kobietą podoba się facet do pewnego stopnia, ale im bardziej atrakcyjny tym mniej jej sie podoba i twierdzi że to jak to określić "nie jej liga" wytłumacz mi to zjawisko
+-Co jest podstawą stylu smart casual?
+-Czy jesteś w stanie mi powiedzieć co jest sekretem sukcesu Half life 2, czemu jest ono tak dobrym FPSem
+-Dlaczego steam jest chyba jedynym dobrym monopolem
+-Pogadać z chatem GPT o Fazach snu i jaki wpływ mają na mózg, organizm i konsolidację wiedzy
+-Po co nam sen?
+-Co to jest stwardnienie zanikowe boczne?
+-Co to jest porażenie rdzeniowe?
+-Opowiedz mi coś o nowoczesnych bio-materiałach
+-Jak to jest że w snach normalnie "widzimy" otoczenie? Czy jest jakiś dodaktowy układ stymulujący korę wzrokową który działa wewnątrz mózgu?
+-Na czym polega wrastający paznokieć? Czy boli bo jest ucisk na tkankę czy boli bo jest infekcja? Jak jest infekcja to czym jest ona spowodowana? Czy samo usunięcie paznokcia rozwiąże problem, czy trzeba jeszcze podać jakiś środek dezynfekujący i antybiotyk?
+-Co to jest dywergencja pola wektorowego
+-Co to jest pochodna kierunkowa funkcji
+-Skoro są indie games, to czy są indie animations/cartoons? Czy przykładem indie animations/cartoons jest Hazbin Hotel i Hellova Boss? Co to znaczy że coś jest indie.
+-Dlaczego niektóre rzeczy nas ciekawią a niektóre nudzą - jaki jest mechanizm psychologiczny i neurologiczny? Np. książka metro 2033 oraz gra mi się podobała - jakie są fundamenty tego "podobania się"
+-Do czego może mi się przydać strój taktyczny? Wiem że na podryw muszę mieć strój smart casual, defaultowo strój casual, jak chcę wyglądać profesionalnie (np jak robię deal biznesowy) to muszę się ubrać formalnie, a do czego może się przydać strój taktyczny (czyli stój taktyczny, jakieś ochraniacze, noże itp)
+-Co to znaczy że coś jest "taktyczne" np odzież taktyczna, plecak taktyczny, pasek taktyczny, latarka taktyczna itp.
+-Jaka jest sprawność diody LED, w porównaniu do tradycyjnej żarówki?
+-Po co dodaje się muzykę do filmów i gier, przecież w teorii psuje ona realizm (w przypadku gier chodzi o jak największy realizm raczej)
+-Co to znaczy że image was hotlinked i dlaczego niektóre strony obrazkowe to blokują?
+-Co to znaczy że ktoś jest rzetelny? Na czym polega cecha rzetelnosć?
+-Stwórz notatki z analizy powstania deep mind szczególnie działaności w pierwszym roku
+-Stwórz notatki z analizy powstania boston dynamics
+-Stwórz notatki z analizy powstania neuralink
+-Dlaczego w sieci LAN używa się dynamicznych adresów IP zamiast statycznych?
+-Jak działa NAT translation
+-Wyjaśnij mi neurologiczny mechanizm działania który wywołuje muzyka - muzyka wywołuje te same emocje które miałem jak miałem jakiś okres w życiu. Np: jak miałem roadtripa w stanach to słuchałem charakterystycznej muzyki i jak teraz znowu tej samej muzyki słucham to odczuwam ten charakterystyczny vbibe rodtripa, inny przykład to w 2017 grałem sporo w metrostroi i wtedy tez słuchałem charakterystycznej muzyki i teraz jak jej słucham to mam ten sam  vibe co wtedy. Wytłumacz mi tez dlaczego im dłużej słucham tej samej muzyki co podczas tych etapów rzyciowych to ten efekt emocjonalny słabnie za każdym razem jak słucham kolejny raz tej samej muzyki.
+-Co to są sterydy których uzywa sie do budowy masy mięśniowej?
+-Jak buduje się masę mięśniową na siłowni?
+-Do czego służy numer BDO?
+-Czy jest wgl możliwe stworzenie okularów które dają HUD taki jak jest w grach? 
+-Co to jest think-tank
+-Na czym polega tzw nightlife/clubbing?
+-Opowiedz mi coś o 2 week minecraft phase
+-Jak zapobiegać 2 week minecraft phase
+-Co to jest proxmox
+-Na czym polega cluster komputerów
+-Czy za pomocą proxmox mogę połączyć w cluster 2 serwery?
+-Wykonaj rzeczy do nauki z Rzeczy prywatnych
+-Po co się relaksujemy, dlaczego po ciężkiej pracy umysłowej warto się zrelaksować (np po 4 godzinach ustawiania serwera) 
+-Przez przypadek wypiłem łyka słonej wody, jak zneutralizować sól i słony posmak?
+-Dlaczego w ciągu wykonywania jednej konkretnej czynności co chwila myślę o czymś innym? Czy to znak AHDH?, jak z tym walczyć.
+-Dlaczego przy niektórych czynnościach tak łatwo się rozpraszam i mam niezwiązanie z tematem myśli (np przy nauce matematyki) a przy innych jestem silnie skupiony (np ustawianie poczty e-mail na serwerze VPS)?
+-Dlaczego skóra głowy tak się przetłuszcza, w przeciwieństwie do zwykłej skóry. Raz ogoliłem sie na łyso i żeby nie mieć tłustej głowy musiałem myć głowę nawet kilka razy dziennie, a reszta ciała prawie wgl mi się nie przetłuszcza i moge się myć co drugi dzień.
+-Dlaczego przy niektórych zadaniach jestem tak skupiony i nie myślę o rzeczach niezwiazanych z tematem, a przy niektórych czynnościach co chwila myśli mi uciekają
+-Co to jest wskaźnik KPI
+-Pogadaj z chatem GPT o 
+	-Jak działają modele Helix S1 i S2. W miarę rozumiem jak działają LLMy ale jak te systemy już działają już nie.
+	LLMy działają na tokenach i predykcji następnego słowa na podstawie kontekstu (wszystko działa na transformerach)
+	Jak to wygląda w Helix S1 i S2?
+	
+-Jak działa viagra
+-Za co odpowiada móżdżek w mózgu?
+-Co to jest mechanizm uwagi w sieciach neuronowych i dlaczego MLP go nie posiada?
+-Co to jest pamięć czasowa w sieciach neuronowych i dlaczego MLP go nie posiada?
+-opowiedz mi o wyspie Epsteina
+- jak jest historia jamesa camerona
+- kto to jest reżyser
+- n czym polega relaksowanie się 
+- co to jest hipnoza i na czym polega 
+- czym jest relaksowanie się, i jaki ma wpływ na naukę 
+- jakie są sposoby relaksu masrz, kąpiel w wannie
+-  dlaczego pojawiają się gazy podczas trawienia
+- jaka technologia stoi za gra "whispers from the star"
+-co to jeest metformina i czy moze pomóc w odchudzaniu 
+-Opowiedz mi o Nancy Pelosi
+-ogladalem ostatnio film twórcy ASMR, na jednej części ekranu dał ganeplay z subway surfers, dlaczego tak chętnie wolałem się skupić na gameplayu sf zamiast na filmie asmr, jaki jest mechanizm psychologiczny tego
+- co to są tachiony
+- co to są izomery
+- czy można zbudować baterię izomerową
+- co to jest i na czym polega SPA
+- jak dzieci w japoni uczą się kanji, czy przed szkołą piszą wszystko w hiraganie, a potem uczą się kanji, czy pisanie wszystkiego w hiraganie jest uznawane w japoni za dzoecinne, czy brak znajomości kanji jest w japoni uznawane jak u nas błędy ortograficzne?
+-Co to jest negging w PUA
+-co to jest DHV w PUA
+-Co to jest kino escalation w PUA
+-https://zywienie.medonet.pl/zdrowe-odzywianie/co-sie-stanie-jesli-bedziemy-sie-zywic-tylko-najtanszymi-produktami/rr4nh1l
+-Co sprawia że tytan jest biokompatybilny
+-Czy są jakieś badania na temat "życia" influencera/youtubera. Bo zauważyłem że w przypadku minecraftowych youtuberów, na początku był SKKF potem polski pingwin, potem doknes a teraz zauważyłem jakiś kanał ENzzi. Przeanalizuj to zjawisko że kanały tracą na popularnosci po pewnym czasie. Jaką długość taki okres życia ma twórca na youtube a jaki na treściach typu shorts (tiktok/instagram)
+-Dlaczego niektóre popularne kanały mają po milion subskrybentów a oglądalnosć ich filmów to ledwo 20-30 tyś, czy to oznacza że nie utrzymuje stałych widzów tylko przyciąga ciągle nowych? (przykład - doknes)
+-Przeanalizuj zjawisko rzeczy które stają się "cringe" które wcześniej kiedyś były popularne -> Dlaczego tak się dzieje?
+-Co to jest łuszczyca szczególnie skóry głowy i czym się różni od grzybicy skóry głowy
+-Jak są leki przeciwgrzybicze na grzybicę skóry to czym leczyć łuszczycę?
+-Skąd bierze się łupież i swędzenie skóry głowy?
+- pogadać z chatemgpt dlaczego tak dobrze wspominam wyjazdy do USA, a szczególnie roadtrip po californii, czy tu chodzi o dziewczyny czy co? Że dobrze spędziłem czas z dziewczynami, bo były 3 dziewczyny i 2 facetów, czy może marzenie by odwiedzić Los angeles i przejażdżka po californi i pobliskich pustynnych stanach. Czy może tęsknię za emocjami (i z czym związane są neuroprzekaźniki)
+-https://pl.wikipedia.org/wiki/MBxd1_161-169
+-Jaka jest różnica między software a firmware?
+-Czym jest manipulacja i perswazja, czym się różnią i przygotuj definicję anki do jednej i drugiej
+-Opowiedz mi o przykładach manipulacji przez reklamy
+-Opowiedz mi coś o hardcore genere, hardcore techno, uptempo
+-Why pepole have pets, what is the meaning of pet?
+-Gdzie szukać eventów dla studentów w łodzi, czy jest jakaś strona. Jak studiowałem na staffordshire university to było takich eventów pełno, jakaś yoga, zumba, warsztaty taneczne inne wynalazki, a w łodzi nie ma nic
+-Napisać na spotted o powyższej rzeczy w łodzi
+-Jak zostały wynalezione macierze? 
+-Dlaczego jak pojechałem do kolegi to spędzanie z nim czasu było takie męczące? Na początku z nim gadałem o różnych rzeczach i było git, potem zaczął mi pokazywać śmieszne filmiki, i tylko udawałem że mnie to śmieszy, a tak naprawdę mnie to męczyło, o co tu chodzi. Bo z drugiej strony mam innych kolegów z którymi lubię czas spędzać i tak szybko mi się bateria społeczna nie rozładowuje, czy z szukaniem dziewczyny powinno być podobnie, on nie jest jakiś wybitnie głupi, też jest ogarnięty, tylko strasznie mi jego vibe nie pasował
+-Dlaczego mimo posiadania dużej wiedzy i umiejętności pracuję dalej za minimalną krajową? Co robię nie tak? Znam dobrze elektronikę, umiem programować, umiem zarządzać serwerem, a jak próbuję znaleźć pracę to mam duży problem, z wielkim trudem udało mi się znaleźć pracę w labolatorium elektrycznym za minimalną krajową. Wcześniej przez rok byłem bezrobotny bo nikt mnie nie chciał. Co robię nie tak?
+-Skąd się wzięły nazwy: sedan, kombi hatchback?
+-https://pl.wikipedia.org/wiki/Hatchback
+-Przeanalizuj totalne początki firmy manta -> pierwszy rok działalności od założenia
+-Zrób dokładny research jak wyglądała sprzedaż odtwarzaczy DVD przez firmę manta w latach 90-2000
+-Co to są decyzje konsumenckie
+-Dlaczego firmy produkujące dobra luksusowe nie wystrzeliwują na giełdzie skoro mają marże po 500%
+-Kto to jest ambasador marki
+-Opowiedz mi coś o firmie beats
+-Jaki jest sekret sukcesu marketingowego firmy beats i jak go zastosować u siebie
+-Opowiedz mi o firmie teenage engineering
+-Jaki jest sekret tak dobrego designu firmy tenage engineering
+-Dlaczego odlewy wtryskowe z plastiku za PRLu były tak słabej jakości a współczesne odlewy plastikowe są tak dobrej jakości (smartfony, komputery, klawiatury, etc) vs tanie klocki dla dzieci
+-https://en.wikipedia.org/wiki/Anna%27s_Archive
+-Na czym polega dopamine detox
+-Jaka jest historia powstania VESC
+https://pl.wikipedia.org/wiki/Frezarka
+https://pl.wikipedia.org/wiki/Obrabiarka
+-https://pl.wikipedia.org/wiki/Obr%C3%B3bka_skrawaniem
+-https://www.youtube.com/watch?v=qmDMN2qIDlc
+-https://www.youtube.com/watch?v=Twi7gycPH7I
+-Jak cięto blachy w dawnych czasach, jak wycinano blachy pod budowę parowozów lub statków np. titanica, jak wycinano otwory pod nity itp.
+-https://pl.wikipedia.org/wiki/Dietyloamid_kwasu_lizergowego
+-https://pl.wikipedia.org/wiki/Komuna
+-https://pl.wikipedia.org/wiki/Punk
+-https://pl.wikipedia.org/wiki/Dezyderata
+-https://pl.wikipedia.org/wiki/Psychodeliki
+-https://pl.wikipedia.org/wiki/Grzyby_psylocybinowe
+-https://pl.wikipedia.org/wiki/Kontestacja
+-https://pl.wikipedia.org/wiki/Kontrkultura
+-https://pl.wikipedia.org/wiki/Rewolucja_seksualna
+-https://pl.wikipedia.org/wiki/Zin
+-https://pl.wikipedia.org/wiki/Samopublikowanie
+-https://en.wikipedia.org/wiki/LSD
+-https://www.youtube.com/watch?v=RvE_52ZSTRY
+-https://www.youtube.com/watch?v=GKA39pwZtYY
+-https://www.youtube.com/watch?v=TaK5eV6WVx8

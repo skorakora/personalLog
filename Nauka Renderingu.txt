@@ -1,0 +1,22 @@
+-Zapoznaj się z interface blendera
+-pobierz model dziewczyny 3D (coś z the last of us oraz the life is stragne true colors)
+-Pogadaj z chatemGPT gdzie trzymać projekt z dużymi modelami 3d i teksturami, czy git jest do tego dobry
+
+
+
+
+
+
+
+
+
+
+
+NAUKA:
+
+-https://www.youtube.com/watch?v=4KV28Lkd2DU 16:28
+-https://en.wikipedia.org/wiki/GlTF
+-https://en.wikipedia.org/wiki/FBX
+-Powiedz coś o formacie .obj w plikach 3d
+
+-https://www.youtube.com/watch?v=QYinGnSw_Fk

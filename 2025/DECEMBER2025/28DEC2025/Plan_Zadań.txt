@@ -1,0 +1,32 @@
+1. Studia
+2. Praca nad firmą
+3. Nauka
+4. Studia 
+5. Praca nad firmą
+6. Studia
+7. Nauka
+8. Rzeczy prywatne
+9. Studia
+10. Nauka Renderingu
+11. Praca nad firmą
+12. Migracja serwera
+13. Studia 
+14. Praca nad firmą
+15. Studia
+16. Inne
+	-Sortowanie muzyki
+		-Polubić wszystkie utwory
+		-Zgrać muzykę
+		-Stworzyć playlisty
+		
+17. Rzeczy prywatne
+18. Networking
+19. Nauka Renderingu
+20. Czytanie
+
+POCZEKALNIA
+Rozwijanie wiedzy o budowaniu mięśni
+Rozwijanie wiedzy o nagrywaniu vlogów
+Rozwijanie umiejętności podrywu
+Kurs na skillshare
+Kurs na coursera
