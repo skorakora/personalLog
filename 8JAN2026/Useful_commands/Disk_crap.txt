@@ -1,0 +1,6 @@
+SMART TEST:
+    TEST:
+        -sudo smartctl -t short -a /dev/sdX -d sat (over USB)
+        -sudo smartctl -t short -a /dev/sdX (no USB)
+    CHECK:
+        sudo smartctl -a /dev/sdb1 -d sat (Look for:Wear_Leveling_Count)
