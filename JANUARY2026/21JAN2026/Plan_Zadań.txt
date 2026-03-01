@@ -1,0 +1,32 @@
+1. Studia
+2. Praca nad firmą
+3. Nauka
+4. Praca nad firmą
+5. Nauka
+6. Praca nad rxg
+7. Rzeczy prywatne
+8. Nauka Renderingu
+9. Praca nad firmą
+10. Migracja serwera
+11. Praca nad firmą
+12. Inne
+	-Sortowanie muzyki
+		-Polubić wszystkie utwory
+		-Zgrać muzykę
+		-Stworzyć playlisty
+		
+13. Praca nad firmą
+14. Networking
+15. Moddowanie minecrafta + vintage story
+16. Czytanie
+17. Inwentaryzacja wewnętrzna
+
+
+POCZEKALNIA
+Przygotowywanie Jadłospisu + Nauka
+Rozwijanie wiedzy o budowaniu mięśni
+Rozwijanie wiedzy o nagrywaniu vlogów
+Rozwijanie umiejętności podrywu
+Kurs na skillshare
+Kurs na coursera
+Nauka Gamedev

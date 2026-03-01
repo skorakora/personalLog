@@ -1,6 +1,24 @@
 -It's hard to be poor when you have a lot of leads
 -To grow business you need more customers or make customers worth more
 -Acquisition.com -> strona która pozwala skalować biznes w mid game (pomoc w mid game)
+-Trzeba stworzyć mini ofertę która zmieni bazę leadów w leady low trust na leady hight trust przez free small offer a potem te high trust leady dać przez paid offer jako core offer
+-Be a drug dealer -> Dealerzy dają próbkę ćpania za darmo by uzależnić klienta a ten zobaczy jak to jest zajebiste sam wróci po więcej
+-Jak tworzysz content to twórz go w różnych formatach (audio, video, tekst) nie ograniczaj się tylko do jednego
+-Jest coś takiego jak cold approach i warm approach. Cold approach to ci klienci którzy cię nie znają, a warm approach to klienci którzy cię już znają
+-Communication można rozdzielić na one to one i one to many. One to one to komunikacja ja-> jedna osoba, a one to many to ja->wiele osób
+-Są 4 sposoby dawania znać osobą o twoim produkcie:
+    -1-to-1 to a Warm Audience = Warm Outreach
+    -1-to-many to a Warm Audience = Posting Content
+    -1-to-1 to a Cold Audience = Cold Outreach
+    -1-to-many to a Cold Audience = Paid Ads
+
+-A-C-A framework for communication.
+    -Acknowledge what they said.
+    -Compliment what they said
+    -Ask another question
+
+-To nie są stany zjednoczone, nie tylko musisz znaleźć osoby które chcą coś od ciebie kupić, ale osoby które mają za co coś od ciebie kupić
+-W moim przypadku warm outreach przez znajomych może sie nie sprawdzić, bo żaden z moich znajomych nie ma na tyle pięniędzy by coś kupić
 
 
 ROZDZIAŁY:
@@ -8,3 +26,16 @@ SECTION1:
     How I got here
     The problem this book solves
 SECTION2:
+    Leads Alone Arrn't Rnough
+    Engage Your Leads: Offers and Lead Magnets
+    Lead Magnets Get Leads to Engage
+        Step1
+        Step2
+        Step3
+        Step4
+        Step5
+        Step6
+        Step7
+SECTION3
+    Warm Outreach
+    Strona 84, Pro tip

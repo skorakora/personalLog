@@ -1,0 +1,11 @@
+-Zamienić docker compose na stack w portainer
+-Zainstalować plugin PLN
+-Przywieźć biurko i szufladki i płytkę stykową i suwmiarkę
+-Przeliczyć i dodać części do bazy danych
+-Przygotować szufladki na podstawie części
+-Powkładać części do szufladek
+-Zrobić listę części do zrobienia wzmacniacza klasy D
+-Sprawdzić ile mam części z potrzebnych
+
+
+

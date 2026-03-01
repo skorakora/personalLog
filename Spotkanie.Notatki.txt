@@ -1,0 +1,12 @@
+-My potrzebujemy systemu a nie tylko ogarniętych ludzi
+
+
+
+Po evencie musi powstać dokument:
+	-Co poszło zgodnie z planem
+	-Co się opóźniło i dlaczego
+	-Co wygenerowało największy stres operacyjny
+	-Gdzie były największe ryzyka prawne/finansowe
+	-Co wymagałoby dodadkowej osoby przy większej skali
+	-Czym jest zakleszczenie w systemach operacyjnych
+	-Jak zmienia się struktura kosztów przy 2x większym evencie

@@ -1,0 +1,105 @@
+-Ogarnąć kartę na nowy adres
+
+
+
+-Wstawić post na elektrodzie o wpływie częstotliwości kluczowania na zniekształcenia THD+N
+	-Przygotować model do symulacji
+	-Wykonać symulacje
+	-Napisać raport
+	-Zawrzeć tam koniecznie info z zapytaniem o kolejny temat
+-Wstawić post na elektrodzie o wpływie PFFB na zniekształcenia THD+N
+	-Przygotować model do symulacji
+	-Wykonać symulacje
+	-Napisać raport
+-Zrób research w sprawie posta o stopniu mocy lab.Gruppen FP10000Q
+-Wstaw post na elektrodzie o analizie stopnia mocy we wzmacniaczu lab.Gruppen FP10000Q
+-Zmienić siedzibę na biuro wirtualne
+
+Zadania po 2h
+-Kontynuować pracę nad stroną
+-Wykonaj zadanie
+-Nauka
+-Kontynuować pracę nad modułem WMD200
+	-Zrób research jak wykonywać symulacje szumu w LTspice
+
+
+-Ćwicz modelowanie CAD w FreeCAD
+	-Wymodeluj za pomocą gięcia blachy prostą obudowę z wentylatorem
+        -Zapoznaj się z customowymi pluginami
+        -Pobierz plugin steel sheet
+        -Zapoznaj się ze steel sheet
+        -Zrób research na temat zagięć w steel sheet (jakie promienie)
+
+-Wykonaj zadanie
+-Nauka
+-Zapoznaj się z systim
+-Wykonaj zadanie
+-Wykonaj zadanie
+-Ogarnąć plan działania na każdy miesiąc z deadlineami + Nauka -> patrz ChatGPT -> moneymax project
+
+
+
+
+
+REJEST CZYNNOŚCI:
+-Kontynuować pracę nad modułem WMD200
+-Wykonaj zadanie -> Przeczytać https://multimed.org/student/elearning/lekcje/temat3.htm
+-Ćwicz modelowanie CAD w FreeCAD
+-Wykonaj zadanie -> Liczenie części
+-Nauka
+-Zapoznaj się z systim
+-Wykonaj zadanie -> Wstawić post na elektrodzie o wpływie częstotliwości kluczowania na zniekształcenia THD+N
+-Sprawdź jak działa ragium LLC
+-Wykonaj zadanie -> Wstawić post na elektrodzie o wpływie częstotliwości kluczowania na zniekształcenia THD+N
+-Ogarnąć plan działania na każdy miesiąc z deadlineami + Nauka
+-Kontynuować pracę nad stroną
+-Wykonaj zadanie -> Wstawić post na elektrodzie o wpływie częstotliwości kluczowania na zniekształcenia THD+N
+
+
+
+
+NAUKA
+-https://www.youtube.com/watch?v=nP5alFwYBH8&list=PLQJi4gXVTqszpEY2UmI-F_WMb3R_rW5MG  5:18
+-https://www.youtube.com/watch?v=MwfeMjcM4zY&list=PLT84nve2j1g_wgGcm0Bv3K4RSl2Jdjsey&index=5
+-https://multimed.org/student/elearning/lekcje/temat8.htm
+-https://multimed.org/student/elearning/lekcje/temat9.htm
+-https://multimed.org/student/elearning/lekcje/temat10.htm
+-https://www.systim.pl/m/index
+-Nauka -> o silnikach (mniejszy PDF)
+-Nauka -> o silnikach (większy PDF)
+
+
+
+
+
+
+WSTRZYMANE
+-Postawić portainer docker.danzosystems.com
+-Postawić pocztę
+    -postawić postfix
+    -postawić dovecot
+    -postawić klienta poczty pod mail.danzosystems.com
+    -kontakt@danzosystems.com
+    -zarzad@danzosystems.com
+    -noreply@danzosystems.com
+	
+-Ogarnąć program do haseł/ ogarnąć hasła
+    -Zainstalować na serwerze pod domeną password.danzosystems.com teampass ->Jeśli teampass się nie sprawdzi spróbować jeszcze z bitwarden, passbolt
+    -Przenieść hasła do programu
+    -Utworzyć konto maciejowi
+    -Usunąć hasła z kanału do haseł
+	
+-Usunąć hasła i zbędne rzeczy z kanału przemyślenia
+-Napisz do kół naukowych że szukasz ludzi
+
+
+WSTRZYMANE CIĄGŁE
+-Rób research jak zostać elektrykiem/otworzyć firmę elektryczną
+
+
+NOTATKI:
+
+Fora internetowe do postów
+-elektroda.pl
+-audiostereo.pl
+-strefacaraudio.pl

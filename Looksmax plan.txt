@@ -1,0 +1,8 @@
+-Zapytać się o bieganie
+-Kupić rower
+-Kupić pierdoły do roweru
+    -Kupić zapięcie
+    -Kupić prędkościomierz
+    -Kupić oświetlenie
+-Wykupić karnet na siłownię
+-Zapisać się na pierwsze zajęcia w środę

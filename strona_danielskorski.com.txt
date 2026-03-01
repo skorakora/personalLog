@@ -6,27 +6,87 @@ Co musi zawierać w menu:
 		"hardware projects"
 
 	Karta "education"
+		-Staffordshire university student of electrical engineerign from 2020 to 2024
 	Karta "Certificates"
+		-Pusta strona "we are working on this..."
 	Karta "employement history"
 	Karta "entrepreneurship"
 		"Danzo Systems"
 
+Sekcja "Engineering Problems I solve
+	-Self oscilation in amplifiers
+	-Noise problems
+	-PCB designs that work in simulation but fail in hardware
+	-Circuits that do not start up reliably
+	-Unknown root causes of malfunction in existing designs
+Sekcja "Services"
+	-PCB design
+	-PCB review
+	-Technical consultation
+	-Electrical design review
+	-Electrical design
 
 Sekcja "About me"
-	"... also known as skorakora ..."
-Sekcja "Services"
-Sekcja "My skills"
-Sekcja "Tech stack & tools"
-Sekcja "My porfolio"
+
+	"I am an electronics engineering specialist focused on power electronics, control systems, and simulation-driven circuit analysis.
+
+	My work centers on understanding why circuits behave the way they do, 
+	especially in cases where real-world behavior diverges from ideal simulations. 
+	I am particularly interested in feedback systems, switching topologies, startup dynamics, 
+	and the mechanisms that lead to instability, oscillation, or unexpected performance degradation.
+
+	I combine analytical reasoning, circuit theory, 
+	and numerical simulation to identify root causes of technical issues rather than applying superficial fixes. 
+	This approach allows me to work effectively with complex analog and power systems where multiple interacting 
+	factors determine final behavior.
+
+	Beyond circuit design itself, I also build and maintain the technical infrastructure used in engineering workflows, 
+	including simulation environments, documentation pipelines, and Linux-based development systems.
+
+	Online, I am also known as skorakora."
+
+
+
+
+Sekcja "My engineering Approach
+	-I begin with analytical understanding of the circuit function
+	-I build or refine simulation models including non-ideal effects
+	-I identify instability or performance limits through controlled testing
+	-I document findings and provide clear, engineering-grade conclusions
+	-I focus on root cause, not superficial fixes
+
+
+Sekcja "Projects"
 	-Coś o falowniku
 	-Modelowaniu WMD200
 	-Personalnym spotify
-	
 
+
+Sekcja "My skills"
+Sekcja "Tech stack & tools"
+	-Linux
+	-Kicad
+	-LtSpice
+	
 
 Sekcja "Interests"
 
 
+
+ZADANIA
+-Uzupełnij sekcję Projects
+-Uzupełnij sekcję My skills
+-Uzupełnij sekcję tech stack and tools
+-Uzupełnij sekcję Interests
+
+Sprawdź sekcje
+Dodaj tekst początkowy
+Wygeneruj stronę główną landing page
+Wygenerować stronę z projektami
+Wygenerować stronę education
+Wygenerowac pustą stronę z Certificates
+Wygenerować stronę z employement history
+Wygenerować stronę z entrepreneurship
 
 
 NAUKA:

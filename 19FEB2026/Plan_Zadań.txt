@@ -1,0 +1,32 @@
+1. Praca nad firmą
+2. Nauka
+3. Praca nad firmą
+4. Moddowanie vintage story
+5. Praca nad firmą
+6. Nauka Renderingu
+7. Praca nad firmą
+8. Rzeczy prywatne
+9. Praca nad firmą
+10. Migracja serwera
+11. Praca nad firmą
+12. Inne
+	-Sortowanie muzyki
+		-Polubić wszystkie utwory
+		-Zgrać muzykę
+		-Stworzyć playlisty
+		
+13. Praca nad firmą
+14. Czytanie
+	-Przeczytać poradnik korposzczura
+15. Inwentaryzacja wewnętrzna
+
+
+POCZEKALNIA
+Nauka Renderingu
+Przygotowywanie Jadłospisu + Nauka
+Rozwijanie wiedzy o budowaniu mięśni
+Rozwijanie wiedzy o nagrywaniu vlogów
+Rozwijanie umiejętności podrywu
+Kurs na skillshare
+Kurs na coursera
+Nauka Gamedev
